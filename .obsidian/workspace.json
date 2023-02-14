@@ -11,15 +11,26 @@
             "id": "16fd0fd89f47bbff",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Proffesional skills/Fishbone_diagram.png"
+              }
+            }
+          },
+          {
+            "id": "461a7ab5373c5748",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic praticum.md",
+                "file": "Proffesional skills/Aantekeningen week 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic praticum.md",
+                "file": "Proffesional skills/Aantekeningen week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic praticum.md",
+                "file": "Proffesional skills/Aantekeningen week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic praticum.md"
+                "file": "Proffesional skills/Aantekeningen week 2.md"
               }
             }
           },
@@ -156,10 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b54fa2b9bc652b",
+  "active": "461a7ab5373c5748",
   "lastOpenFiles": [
-    "Logic Opdrachten week 1.md",
-    "Logic praticum.md",
-    "Les 1 Cyber.md"
+    "Proffesional skills/Fishbone_diagram.png",
+    "README.md",
+    "Routing & Switching/Week 2.md",
+    "Untitled.canvas",
+    "Proffesional skills/Aantekeningen week 2.md",
+    "Fishbone_diagram..md",
+    "Logic Aantekeningen/Logic praticum.md",
+    "Logic Practicum/Logic Opdrachten week 1.md",
+    "Logic Aantekeningen/Untitled.md",
+    "Cyber Aantekeningen/Les 1 Cyber.md"
   ]
 }

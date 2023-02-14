@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4848c701e7b9ac6e","x":-137,"y":-58,"width":250,"height":60,"type":"text","text":"Pc\n"},
+		{"id":"41d507cb86db9f89","x":-136,"y":137,"width":250,"height":60,"type":"text","text":"Router"},
+		{"id":"1aa5e7acffdd5f60","x":232,"y":139,"width":250,"height":60,"type":"text","text":"Pc"}
+	],
+	"edges":[
+		{"id":"e36bdb6d1d3f900b","fromNode":"4848c701e7b9ac6e","fromSide":"bottom","toNode":"41d507cb86db9f89","toSide":"top"},
+		{"id":"45f24af27f59dcac","fromNode":"41d507cb86db9f89","fromSide":"right","toNode":"1aa5e7acffdd5f60","toSide":"left"}
+	]
+}
