@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c17cfcbc962706f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Aantekeningen/Logic practicum.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic Aantekeningen/Logic practicum.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic Aantekeningen/Logic practicum.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -165,15 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42a28a31e6689942",
+  "active": "8c17cfcbc962706f",
   "lastOpenFiles": [
+    "Logic Aantekeningen/Logic practicum.md",
     "Proffesional skills/Aantekeningen week 2.md",
     "Proffesional skills/Fishbone_diagram.png",
     "README.md",
     "Routing & Switching/Week 2.md",
     "Untitled.canvas",
     "Fishbone_diagram..md",
-    "Logic Aantekeningen/Logic practicum.md",
     "Logic Practicum/Logic Opdrachten week 1.md",
     "Logic Aantekeningen/Untitled.md",
     "Cyber Aantekeningen/Les 1 Cyber.md"

@@ -86,5 +86,9 @@ Alles wat je zelf kan beïnvloeden voor je project. Zoals communicatie, time rec
 ---
 
 # Fishbone diagram voorbeeld
+<<<<<<< HEAD
 ![[Fishbone_diagram.png]]
 
+=======
+![][/Fishbone_diagram.Png]
+>>>>>>> origin/main
