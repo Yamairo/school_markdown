@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4900c51b9b98a9",
+        "id": "964f7d6ff342fab1",
         "type": "tabs",
         "children": [
           {
-            "id": "16fd0fd89f47bbff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Proffesional skills/Fishbone_diagram.png"
-              }
-            }
-          },
-          {
-            "id": "461a7ab5373c5748",
+            "id": "fb5f6760a63156cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proffesional skills/Aantekeningen week 2.md",
+                "file": "Logic Aantekeningen/Logic practicum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#exponent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a93f908bfa9733f6",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proffesional skills/Aantekeningen week 2.md",
+                "file": "Logic Aantekeningen/Logic practicum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proffesional skills/Aantekeningen week 2.md",
+                "file": "Logic Aantekeningen/Logic practicum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proffesional skills/Aantekeningen week 2.md"
+                "file": "Logic Aantekeningen/Logic practicum.md"
               }
             }
           },
@@ -147,9 +137,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "291e5d9b13f2ba7b",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -167,15 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "461a7ab5373c5748",
+  "active": "42a28a31e6689942",
   "lastOpenFiles": [
+    "Proffesional skills/Aantekeningen week 2.md",
     "Proffesional skills/Fishbone_diagram.png",
     "README.md",
     "Routing & Switching/Week 2.md",
     "Untitled.canvas",
-    "Proffesional skills/Aantekeningen week 2.md",
     "Fishbone_diagram..md",
-    "Logic Aantekeningen/Logic praticum.md",
+    "Logic Aantekeningen/Logic practicum.md",
     "Logic Practicum/Logic Opdrachten week 1.md",
     "Logic Aantekeningen/Untitled.md",
     "Cyber Aantekeningen/Les 1 Cyber.md"

@@ -47,6 +47,22 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
+    "10000010": {
+      "10000010": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676498615036
+        }
+      }
+    },
+    "11010100": {
+      "11010100": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676498407530
+        }
+      }
+    },
     "ordering": {
       "ordering": {
         "currentFile": {
@@ -340,6 +356,62 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1676369848692
+        }
+      }
+    },
+    "41A60000": {
+      "41A60000": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676494646907
+        }
+      }
+    },
+    "\\overline{a}": {
+      "\\overline{a}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676496818133
+        }
+      }
+    },
+    "\\overline{b}": {
+      "\\overline{b}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1676498382923
+        }
+      }
+    },
+    "\\cdot": {
+      "\\cdot": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676497378697
+        }
+      }
+    },
+    "\\overline{c}": {
+      "\\overline{c}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676497443575
+        }
+      }
+    },
+    "tabel": {
+      "tabel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676497581106
+        }
+      }
+    },
+    "Computer": {
+      "Computer": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676498486101
         }
       }
     }

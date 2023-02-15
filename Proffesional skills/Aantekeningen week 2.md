@@ -86,4 +86,5 @@ Alles wat je zelf kan beïnvloeden voor je project. Zoals communicatie, time rec
 ---
 
 # Fishbone diagram voorbeeld
-![][Fishbone_diagram.Png]
+![[Fishbone_diagram.png]]
+
