@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "8c17cfcbc962706f",
+            "id": "76deedd4fd4cb36e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Logic Aantekeningen/Logic practicum.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#exponent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Logic Aantekeningen/Logic practicum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Logic Aantekeningen/Logic practicum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Logic Aantekeningen/Logic practicum.md"
               }
             }
           },
@@ -178,8 +178,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c17cfcbc962706f",
+  "active": "76deedd4fd4cb36e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Logic Aantekeningen/Logic practicum.md",
     "Proffesional skills/Aantekeningen week 2.md",
     "Proffesional skills/Fishbone_diagram.png",
@@ -188,7 +189,6 @@
     "Untitled.canvas",
     "Fishbone_diagram..md",
     "Logic Practicum/Logic Opdrachten week 1.md",
-    "Logic Aantekeningen/Untitled.md",
-    "Cyber Aantekeningen/Les 1 Cyber.md"
+    "Logic Aantekeningen/Untitled.md"
   ]
 }

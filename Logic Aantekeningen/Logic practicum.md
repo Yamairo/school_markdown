@@ -9,6 +9,7 @@ Converteer op papier de volgende twee decimale getallen naar floating point enke
 ## 1.
 
 $8,5 = 1. 000100\cdot2^3$
+
 | 8   | 4   | 2   | 1   | 1/2 | 1/4 | 1/8 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1   | 0   | 0   | 0   | 1   | 0   | 0   | 
@@ -104,6 +105,7 @@ Converteer de volgende floating point enkelvoudige precisie codes naar een decim
 5.  $1.010011 \cdot 2^{4}= 10100.11 = 20{3\over4}$
 
 # 2.
+
 0 × C16A0000
 1. 1100 0001 0110 1010 0000 0000 0000 0000
 2. Sign = 1, dus negatief
@@ -125,7 +127,7 @@ Converteer de volgende floating point enkelvoudige precisie codes naar een decim
 | 1   | 1   | 1   | 0   |
 
 1. $Q = \overline{a} \cdot \overline{b} \cdot \overline{c} + \overline{a} \cdot \overline{b} \cdot {c} + \overline{a} \cdot {b} \cdot \overline{c} + {a} \cdot \overline{b} \cdot {c}$ 
-2. Computer 
+2. ![[screenshot 1.png]]
 3. $K[Q] = [3+3+3+3]+4=16$
 4. Zie tabel 
 
