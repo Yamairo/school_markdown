@@ -25,14 +25,72 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Cyber Aantekeningen/Les 1 Cyber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "660be4f7118be15f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proffesional skills/Aantekeningen week 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a50098acb5564d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Logic Aantekeningen/Logic practicum.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7d66df21dcf46f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b69df5faa8c08b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Practicum/Kali 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a29715b725319054",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Routing & Switching/L2 Cisco lab.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -78,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Aantekeningen/Logic practicum.md",
+                "file": "Routing & Switching/L2 Cisco lab.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic Aantekeningen/Logic practicum.md",
+                "file": "Routing & Switching/L2 Cisco lab.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic Aantekeningen/Logic practicum.md"
+                "file": "Routing & Switching/L2 Cisco lab.pdf"
               }
             }
           },
@@ -178,17 +235,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76deedd4fd4cb36e",
+  "active": "a29715b725319054",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Logic Aantekeningen/Logic practicum.md",
-    "Proffesional skills/Aantekeningen week 2.md",
-    "Proffesional skills/Fishbone_diagram.png",
+    "Cyber Practicum/Kali 2.md",
+    "Cyber Practicum/Kali 1.md",
     "README.md",
-    "Routing & Switching/Week 2.md",
-    "Untitled.canvas",
-    "Fishbone_diagram..md",
+    "Logic Aantekeningen/Logic practicum.md",
+    "Logic Aantekeningen/screenshot 1.png",
     "Logic Practicum/Logic Opdrachten week 1.md",
-    "Logic Aantekeningen/Untitled.md"
+    "Proffesional skills/Aantekeningen week 2.md",
+    "Routing & Switching/Week 2.md",
+    "Cyber Aantekeningen/Les 2 Cyber.md",
+    "Cyber Aantekeningen/Les 1 Cyber.md"
   ]
 }

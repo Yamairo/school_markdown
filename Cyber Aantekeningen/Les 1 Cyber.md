@@ -35,6 +35,5 @@
 
 ## Poly-alfabetische substitutie: Vignère
 
-
 ## Substitutie 3: Enigma
 - 

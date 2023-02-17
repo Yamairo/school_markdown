@@ -127,7 +127,8 @@ Converteer de volgende floating point enkelvoudige precisie codes naar een decim
 | 1   | 1   | 1   | 0   |
 
 1. $Q = \overline{a} \cdot \overline{b} \cdot \overline{c} + \overline{a} \cdot \overline{b} \cdot {c} + \overline{a} \cdot {b} \cdot \overline{c} + {a} \cdot \overline{b} \cdot {c}$ 
-2. ![[screenshot 1.png]]
+2. Na simulatie volgt dit circuit
+   ![[screenshot 1.png]]
 3. $K[Q] = [3+3+3+3]+4=16$
 4. Zie tabel 
 
@@ -152,7 +153,10 @@ $Q'=\overline{b} \cdot c + \overline{a} \cdot \overline{c}$
 
 
 5. $k[Q']=[2+2]+2=6$
-6. Computer
+6. Formule 
+   ![[Formule.png]]
+   Circuit
+   ![[Circuit.png]]
 
 ### A3: Circuit minimaliseren II.
 
@@ -205,5 +209,8 @@ $Q'=\overline{b} \cdot c + \overline{a} \cdot \overline{c}$
 $Q'={a} \cdot \overline{c} + \overline{c} \cdot {d}$
 
 5. $k[Q']=[2+2]+2=6$
-6. Computer
-7. Computer 
+6. Circuit
+   ![[Cuircuit 2.png]]
+7. Formule
+   ![[Formule 2.png]] 
+Zoals je in in het circuit ziet komen de not en de and gates overeen met de vergelijking
