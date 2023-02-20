@@ -13,5 +13,10 @@
   "spellcheckLanguages": [
     "nl",
     "en"
+  ],
+  "spellcheckDictionary": [
+    "Subnet",
+    "Binair",
+    "adres"
   ]
 }
