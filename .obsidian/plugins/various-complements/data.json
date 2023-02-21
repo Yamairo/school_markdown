@@ -518,6 +518,30 @@
           "lastUpdated": 1676902762387
         }
       }
+    },
+    "adresseren": {
+      "adresseren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676914000808
+        }
+      }
+    },
+    "hosts": {
+      "hosts": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676914049928
+        }
+      }
+    },
+    "Subnetmask": {
+      "Subnetmask": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676926383189
+        }
+      }
     }
   }
 }
