@@ -9,3 +9,8 @@
 - [ ] Logic B [[Logic practicum]]
 - [ ] [[Kali 2]] 
 - [ ] Aantekeningen [[Les 1 Cyber]]  afmaken
+- [ ] Proffesional skills ^f74a2b
+	- [ ] Video
+	- [ ] Storyboard
+	- [ ] Presentatie architectuurontwerp
+- [ ] [[Week 3]]  afmaken

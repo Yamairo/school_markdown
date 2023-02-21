@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8ef95beaaca5db83","x":-107,"y":-97,"width":250,"height":60,"type":"text","text":"Router"},
+		{"id":"a4528628007980c5","x":196,"y":-97,"width":250,"height":60,"type":"text","text":"PC"},
+		{"id":"938fe506ece76a5c","x":-107,"y":38,"width":250,"height":60,"type":"text","text":"PC"},
+		{"id":"0d2090d4f83d438e","x":196,"y":38,"width":250,"height":60,"color":"3","type":"text","text":"PC"},
+		{"id":"0288a2393154d13b","x":-446,"y":-97,"width":250,"height":60,"color":"3","type":"text","text":"PC"}
+	],
+	"edges":[
+		{"id":"be873beb77e90312","fromNode":"8ef95beaaca5db83","fromSide":"bottom","toNode":"938fe506ece76a5c","toSide":"top"},
+		{"id":"420fcbf7df956735","fromNode":"8ef95beaaca5db83","fromSide":"right","toNode":"a4528628007980c5","toSide":"left"},
+		{"id":"29e443aafbbbc810","fromNode":"8ef95beaaca5db83","fromSide":"left","toNode":"0288a2393154d13b","toSide":"right","color":"3"},
+		{"id":"a67a7a60eb37c942","fromNode":"8ef95beaaca5db83","fromSide":"bottom","toNode":"0d2090d4f83d438e","toSide":"top","color":"3"}
+	]
+}

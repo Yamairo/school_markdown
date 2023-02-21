@@ -542,6 +542,262 @@
           "lastUpdated": 1676926383189
         }
       }
+    },
+    "groepsdynamiek": {
+      "groepsdynamiek": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676966801264
+        }
+      }
+    },
+    "ontstaan": {
+      "ontstaan": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676967244036
+        }
+      }
+    },
+    "communiceren": {
+      "communiceren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676967422914
+        }
+      }
+    },
+    "Netwerk": {
+      "Netwerk": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676972592775
+        }
+      }
+    },
+    "layer": {
+      "layer": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1676973496241
+        }
+      }
+    },
+    "Layer": {
+      "Layer": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676973653922
+        }
+      }
+    },
+    "netwerk": {
+      "netwerk": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676972818219
+        }
+      }
+    },
+    "distribution": {
+      "distribution": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676973508413
+        }
+      }
+    },
+    "availability": {
+      "availability": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676973061205
+        }
+      }
+    },
+    "Processes": {
+      "Processes": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676973128158
+        }
+      }
+    },
+    "performing": {
+      "performing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676973501100
+        }
+      }
+    },
+    "\\underline{downtime}": {
+      "\\underline{downtime}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676973629716
+        }
+      }
+    },
+    "ethernet": {
+      "ethernet": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676973714475
+        }
+      }
+    },
+    "forwarden": {
+      "forwarden": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676973790070
+        }
+      }
+    },
+    "frame": {
+      "frame": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676973820688
+        }
+      }
+    },
+    "switch": {
+      "switch": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676973835754
+        }
+      }
+    },
+    "MAC-adressen": {
+      "MAC-adressen": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676974191918
+        }
+      }
+    },
+    "forward": {
+      "forward": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676973912112
+        }
+      }
+    },
+    "Cut-through": {
+      "Cut-through": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676973917921
+        }
+      }
+    },
+    "switching": {
+      "switching": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676974020485
+        }
+      }
+    },
+    "Asymetrisch": {
+      "Asymetrisch": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676974031767
+        }
+      }
+    },
+    "Redundancy": {
+      "Redundancy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676974164970
+        }
+      }
+    },
+    "Model": {
+      "Model": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676974756738
+        }
+      }
+    },
+    "VLANs": {
+      "VLANs": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1676976010685
+        }
+      }
+    },
+    "default-gateway": {
+      "default-gateway": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676975139351
+        }
+      }
+    },
+    "verschillende": {
+      "verschillende": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676975356362
+        }
+      }
+    },
+    "kunnen": {
+      "kunnen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676975361479
+        }
+      }
+    },
+    "trunking": {
+      "trunking": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676975406050
+        }
+      }
+    },
+    "nativ-VLAN": {
+      "nativ-VLAN": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676975734997
+        }
+      }
+    },
+    "Week 3": {
+      "Week 3": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676976129865
+        }
+      }
+    },
+    "shutdown": {
+      "shutdown": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676976263729
+        }
+      }
+    },
+    "pingen": {
+      "pingen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676976447941
+        }
+      }
     }
   }
 }

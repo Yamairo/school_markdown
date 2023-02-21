@@ -4,53 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "e66449f92bd9a7ee",
+        "id": "8b02069d88e38be6",
         "type": "tabs",
         "children": [
           {
-            "id": "ca2c9a4a3c8418cc",
+            "id": "1af3bac959fac470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routing & Switching Practicum/Routing and switching 2.md",
+                "file": "Routing & Switching Aantekeningen/Week 3.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c0df91a12a4b1da6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Routing & Switching Practicum/Routing and switching 2.md",
-                "mode": "source",
-                "source": true
-              }
             },
-            "group": "393765c851a8df32"
+            "group": "98ee233da087e447"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "1a3cd285c326d9e2",
+        "id": "731ed94e895415e6",
         "type": "tabs",
         "children": [
           {
-            "id": "c4b6b562c0769c17",
+            "id": "fd78c3f0d6b881fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routing & Switching Practicum/Routing and switching 2.md",
-                "mode": "preview",
+                "file": "Routing & Switching Aantekeningen/Week 3.md",
+                "mode": "source",
                 "source": false
               }
             },
-            "group": "393765c851a8df32"
+            "group": "98ee233da087e447"
           }
         ]
       }
@@ -84,7 +71,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routing & Switching Practicum/Routing and switching 2.md",
+                "file": "Routing & Switching Aantekeningen/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routing & Switching Practicum/Routing and switching 2.md",
+                "file": "Routing & Switching Aantekeningen/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routing & Switching Practicum/Routing and switching 2.md"
+                "file": "Routing & Switching Aantekeningen/Week 3.md"
               }
             }
           },
@@ -218,17 +205,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c0df91a12a4b1da6",
+  "active": "1af3bac959fac470",
   "lastOpenFiles": [
+    "Routing switching server.canvas",
+    "Routing & Switching Aantekeningen/Week 3.md",
     "TODO.md",
+    "Logic Practicum/Logic practicum.md",
+    "Logic Practicum/Logic Opdrachten week 1.md",
+    "Logic practicum.pdf",
+    "Aantekeningen week 2.pdf",
     "Routing & Switching Practicum/Routing and switching 2.md",
     "Untitled 1.canvas",
-    "Proffesional skills/Aantekeningen week 2.md",
-    "Routing & Switching Aantekeningen/Week 2.md",
-    "README.md",
-    "Cyber Aantekeningen/Les 2 Cyber.md",
-    "Cyber Aantekeningen/Les 1 Cyber.md",
-    "lasertechniek/Lasertechniek.md",
-    "Logic Practicum/Circuit.png"
+    "Untitled.canvas"
   ]
 }
