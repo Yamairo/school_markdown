@@ -4,42 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8b02069d88e38be6",
+        "id": "5b49e105f38d1760",
         "type": "tabs",
         "children": [
           {
-            "id": "1af3bac959fac470",
+            "id": "54d2d0a55bc84505",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routing & Switching Aantekeningen/Week 3.md",
+                "file": "Logic Practicum/Logic practicum A.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "98ee233da087e447"
-          }
-        ]
-      },
-      {
-        "id": "731ed94e895415e6",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "fd78c3f0d6b881fc",
+            "id": "88136672b1d0280a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routing & Switching Aantekeningen/Week 3.md",
-                "mode": "source",
+                "file": "Logic Practicum/Logic practicum B.md",
+                "mode": "preview",
                 "source": false
               }
-            },
-            "group": "98ee233da087e447"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routing & Switching Aantekeningen/Week 3.md",
+                "file": "Logic Practicum/Logic practicum B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routing & Switching Aantekeningen/Week 3.md",
+                "file": "Logic Practicum/Logic practicum B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routing & Switching Aantekeningen/Week 3.md"
+                "file": "Logic Practicum/Logic practicum B.md"
               }
             }
           },
@@ -205,17 +198,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1af3bac959fac470",
+  "active": "88136672b1d0280a",
   "lastOpenFiles": [
-    "Routing switching server.canvas",
-    "Routing & Switching Aantekeningen/Week 3.md",
-    "TODO.md",
-    "Logic Practicum/Logic practicum.md",
-    "Logic Practicum/Logic Opdrachten week 1.md",
-    "Logic practicum.pdf",
-    "Aantekeningen week 2.pdf",
+    "Logic Practicum/Logic practicum A.md",
+    "Logic Practicum/Logic practicum B.md",
+    "Cyber Practicum/Kali 1.md",
     "Routing & Switching Practicum/Routing and switching 2.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Proffesional skills/Aantekeningen week 3.md",
+    "Routing & Switching Aantekeningen/Week 3.md",
+    "Routing & Switching Aantekeningen/Week 2.md",
+    "Proffesional skills/Fishbone_diagram.png",
+    "Proffesional skills/Aantekeningen week 2.md",
+    "Cyber Practicum/Kali 2.md"
   ]
 }

@@ -1,3 +1,18 @@
+```java
+IP-address Kali Linux: 10.0.2.4
+```
+
+```java
+IP-address Metasploitable : 10.0.2.5
+```
+
+• Na het invoeren van
+```bash
+nmap -sn 10.0.2.0/24
+```
+
+# 1.1
+
 # 1.3 Applicatie-, OS-herkenning met nmap
 - Appllicatie en versie-identificatie
 ```bash

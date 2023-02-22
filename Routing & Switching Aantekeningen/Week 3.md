@@ -129,7 +129,7 @@ Dit heet trunking en word met de IEEE 802.1q standaard gedaan
 ![[Pasted image 20230221114256.png]]
 Vergeet niet om de no shutdown command toe te voegen
 ```bash
-$ $no shutdown
+$ no shutdown
 ```
 Met dit netwerk kun je zowel pc 1 als pc 2 pingen 
 
