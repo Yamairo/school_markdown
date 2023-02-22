@@ -5,7 +5,7 @@
   "readableLineLength": true,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
@@ -19,5 +19,6 @@
     "Binair",
     "adres"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Proffesional skills/PDF"
 }

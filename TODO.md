@@ -1,5 +1,5 @@
 #TODO
-- [ ] [[Routing and switching 2]]  ^f4f9f4
+- [ ] [[Routing and switching practicum 2]]  ^f4f9f4
 	- [x] Opdracht 1
 	- [x] Opdracht 2
 	- [x] Opdracht 3
@@ -7,10 +7,10 @@
 	- [ ] Opdracht 5
 
 - [ ] Logic B [[Logic practicum A]]
-- [ ] [[Kali 2]] 
-- [ ] Aantekeningen [[Les 1 Cyber]]  afmaken
+- [ ] [[Cyber practicum 2]] 
+- [ ] Aantekeningen [[Aantekeningen Cyber 1]]  afmaken
 - [ ] Proffesional skills ^f74a2b
 	- [ ] Video
 	- [ ] Storyboard
 	- [ ] Presentatie architectuurontwerp
-- [ ] [[Week 3]]  afmaken
+- [ ] [[Routing & Switching Aantekening Week 3]]  afmaken

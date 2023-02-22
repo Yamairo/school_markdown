@@ -1,6 +1,6 @@
 ```toc
 ```
-## Opdrtacht B: Luxe jacht
+## Opdracht B: Luxe jacht
 -  Drinkwatertank:
 	-  Drinkwaterpomp drooglegbeveiliging
 	- Drinkwatertank afvoerklep
