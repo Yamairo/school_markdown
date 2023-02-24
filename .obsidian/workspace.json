@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "right": {
     "id": "a93f908bfa9733f6",
@@ -188,6 +187,7 @@
   },
   "active": "32eafa881d9ad6eb",
   "lastOpenFiles": [
+    "Cyber Practicum/pdf/Cyber practicum 3.pdf",
     "Routing & Switching Practicum/pdf/Cyber practicum 3.pdf",
     "Cyber Practicum/Cyber practicum 2.md",
     "Cyber Practicum/Cyber practicum 3.md",
@@ -221,7 +221,6 @@
     "Cyber Aantekeningen/Aantekeningen Cyber 1.md",
     "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
     "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 2.md",
-    "pdf/Routing & Switching Aantekening Week 3.pdf",
-    "pdf/Routing & Switching Aantekening Week 2.pdf"
+    "pdf/Routing & Switching Aantekening Week 3.pdf"
   ]
 }
