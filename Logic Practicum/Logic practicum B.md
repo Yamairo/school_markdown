@@ -37,8 +37,10 @@
 | Q 8               | Drinkwaterpomp                     | NO       |
 
 ### Circuit 1 - Kraan
-![[Pasted image 20230222165508.png]]
+![[Pasted image 20230223194401.png]]
 
 ### Circuit  2 - Toilet
-![[Pasted image 20230222173505.png]]
+![[Pasted image 20230223192526.png]]
+
+
 

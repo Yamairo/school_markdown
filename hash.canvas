@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cfb557e1b340b1f5","x":9,"y":-113,"width":250,"height":60,"type":"text","text":"Hash"},
+		{"id":"9d011a4762d1ae04","x":-300,"y":-113,"width":250,"height":60,"color":"2","type":"text","text":"Server"},
+		{"id":"0665c3113cf3c3fd","x":340,"y":-113,"width":250,"height":60,"color":"4","type":"text","text":"Gebruiker"}
+	],
+	"edges":[
+		{"id":"fbc3c7b71abc107c","fromNode":"0665c3113cf3c3fd","fromSide":"left","toNode":"cfb557e1b340b1f5","toSide":"right"},
+		{"id":"9e88145c90938d54","fromNode":"cfb557e1b340b1f5","fromSide":"left","toNode":"9d011a4762d1ae04","toSide":"right"}
+	]
+}

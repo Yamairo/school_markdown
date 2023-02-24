@@ -47,6 +47,14 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
+    "32766": {
+      "32766": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677183806709
+        }
+      }
+    },
     "10000010": {
       "10000010": {
         "currentFile": {
@@ -538,8 +546,8 @@
     "Subnetmask": {
       "Subnetmask": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676926383189
+          "count": 4,
+          "lastUpdated": 1677181738477
         }
       }
     },
@@ -570,8 +578,8 @@
     "Netwerk": {
       "Netwerk": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676972592775
+          "count": 2,
+          "lastUpdated": 1677180968011
         }
       }
     },
@@ -916,6 +924,214 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1677100089700
+        }
+      }
+    },
+    "bescherming": {
+      "bescherming": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677139573090
+        }
+      }
+    },
+    "integriteit": {
+      "integriteit": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677140135253
+        }
+      }
+    },
+    "hashfuncties": {
+      "hashfuncties": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677140912901
+        }
+      }
+    },
+    "onveilig": {
+      "onveilig": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677140954767
+        }
+      }
+    },
+    "veilig": {
+      "veilig": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677141005216
+        }
+      }
+    },
+    "gebruiker": {
+      "gebruiker": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677141620100
+        }
+      }
+    },
+    "Toepassing": {
+      "Toepassing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677141863114
+        }
+      }
+    },
+    "Authenticatie": {
+      "Authenticatie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677142028204
+        }
+      }
+    },
+    "toegang": {
+      "toegang": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677142107750
+        }
+      }
+    },
+    "Address": {
+      "Address": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677180987382
+        }
+      }
+    },
+    "Adres": {
+      "Adres": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677181603540
+        }
+      }
+    },
+    "subnet": {
+      "subnet": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677181619579
+        }
+      }
+    },
+    "---------------": {
+      "---------------": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677182301615
+        }
+      }
+    },
+    "------------------": {
+      "------------------": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677182318438
+        }
+      }
+    },
+    "-------------------------------------------": {
+      "-------------------------------------------": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677182322256
+        }
+      }
+    },
+    "Bruteforce": {
+      "Bruteforce": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677188418774
+        }
+      }
+    },
+    "attack": {
+      "attack": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677188439043
+        }
+      }
+    },
+    "Dictionairy": {
+      "Dictionairy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677188436898
+        }
+      }
+    },
+    "hydra": {
+      "hydra": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677188443411
+        }
+      }
+    },
+    "passwords": {
+      "passwords": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677188638220
+        }
+      }
+    },
+    "bruteforce": {
+      "bruteforce": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677188690145
+        }
+      }
+    },
+    "service": {
+      "service": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677189114475
+        }
+      }
+    },
+    "wachtwoord": {
+      "wachtwoord": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677189559853
+        }
+      }
+    },
+    "dictionairy": {
+      "dictionairy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677189749430
+        }
+      }
+    },
+    "gebruikt": {
+      "gebruikt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677189757403
+        }
+      }
+    },
+    "wachtwoorden": {
+      "wachtwoorden": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677189863004
         }
       }
     }
