@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "311caf272cc302ee",
+        "id": "ccbcccab7335cea9",
         "type": "tabs",
         "children": [
           {
-            "id": "32eafa881d9ad6eb",
+            "id": "685373adca75689b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Practicum/Cyber practicum 3.md",
+                "file": "Toetsen Samenvattingen/Network Engeneering Deel 1.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "af8afee95f2def60"
+          }
+        ]
+      },
+      {
+        "id": "a2e37efb1ddecd8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340a76e2c7a32b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toetsen Samenvattingen/Network Engeneering Deel 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "af8afee95f2def60"
           }
         ]
       }
@@ -97,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Practicum/Cyber practicum 3.md",
+                "file": "Toetsen Samenvattingen/Network Engeneering Deel 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Practicum/Cyber practicum 3.md",
+                "file": "Toetsen Samenvattingen/Network Engeneering Deel 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Practicum/Cyber practicum 3.md"
+                "file": "Toetsen Samenvattingen/Network Engeneering Deel 1.md"
               }
             }
           },
@@ -165,8 +185,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,26 +201,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "32eafa881d9ad6eb",
+  "active": "685373adca75689b",
   "lastOpenFiles": [
+    "Cyber_Aantekeningen/Aantekeningen Cyber 1.md",
+    "Toetsen Samenvattingen/Network Engeneering Deel 1.md",
+    "Proffesional skills/pdf/Pasted image 20230301161254.png",
+    "Proffesional skills/pdf/Pasted image 20230301155856.png",
+    "Proffesional skills/pdf/Pasted image 20230301155703.png",
+    "![[Pasted image 20230301155038.png]].md",
+    "Proffesional skills/pdf/Pasted image 20230301155038.png",
+    "[Aantekeningen Cyber 1.md",
+    "[.md",
+    "Proffesional skills/pdf/Pasted image 20230301153348.png",
+    "Network Engeneering Deel 1^Caes.md",
+    "Cyber Practicum/Cyber practicum 3.md",
+    "Routing & Switching Practicum/Routing & Switching Practicum 3.md",
+    "Routing & Switching Practicum/Video Routing en switching.md",
+    "Proffesional skills/pdf/Pasted image 20230301143858.png",
+    "Proffesional skills/pdf/Pasted image 20230301142809.png",
+    "Proffesional skills/pdf/Pasted image 20230301140121.png",
+    "Toetsen Samenvattingen",
+    "Proffesional skills/pdf/Pasted image 20230225134332.png",
+    "Proffesional skills/pdf/Pasted image 20230224111725.png",
     "Cyber Practicum/pdf/Cyber practicum 3.pdf",
     "Routing & Switching Practicum/pdf/Cyber practicum 3.pdf",
     "Cyber Practicum/Cyber practicum 2.md",
-    "Cyber Practicum/Cyber practicum 3.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Routing & Switching Practicum/Routing and switching practicum 2.md",
     "Routing & Switching Practicum/pdf/Routing and switching practicum 2.pdf",
     "Routing & Switching Practicum/05654ac548c7c7de0c988023df3eb5b5.pdf",
     "Routing & Switching Practicum/L2 Cisco lab.pdf",
     "Logic Practicum/Logic practicum B.md",
-    "Proffesional skills/pdf/Pasted image 20230223194401.png",
-    "Proffesional skills/pdf/Pasted image 20230223192526.png",
-    "Proffesional skills/pdf/Pasted image 20230223192500.png",
-    "Proffesional skills/pdf/Pasted image 20230223191511.png",
     "The Office week 3.md",
     "Cyber Practicum/Cyber practicum 1.md",
     "Cyber Practicum/pdf/Cyber practicum 2.pdf",
@@ -209,18 +243,13 @@
     "TODO.md",
     "Logic Aantekeningen/Logic Aantekeningen week 3.md",
     "hash.canvas",
-    "Cyber Aantekeningen/Cyber Aantekeningen week 3.md",
+    "Cyber_Aantekeningen/Cyber Aantekeningen week 3.md",
     "random_oracle.canvas",
     "integriteit.canvas",
-    "Proffesional skills/pdf/Pasted image 20230223090245.png",
-    "Proffesional skills/pdf/Pasted image 20230223090228.png",
     "Logic Practicum/pdf/Logic practicum B.pdf",
     "Aantekeningen Cyber 1.pdf",
-    "Cyber Aantekeningen/Aantekeningen Cyber 2.md",
-    "Aantekeningen Cyber 2.pdf",
-    "Cyber Aantekeningen/Aantekeningen Cyber 1.md",
+    "Cyber_Aantekeningen/Aantekeningen Cyber 2.md",
     "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
-    "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 2.md",
-    "pdf/Routing & Switching Aantekening Week 3.pdf"
+    "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 2.md"
   ]
 }

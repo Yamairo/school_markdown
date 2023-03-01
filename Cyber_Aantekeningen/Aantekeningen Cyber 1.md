@@ -23,6 +23,7 @@
 - De spartanen pasten dit reeds toe in de oudheid "scytale" (*Opm. Bij de scytale is er een transposite van een vaste afstand bv Caeser cypher*)
 
 ## Substitutie 1: Caesar
+
 - Substitutie is het vervangen van symbolen voor andere symbolen uit het alfabet
 - Caesar gebruikte voor codering van militaire berichten een vaste verschuiving (shift)
 - De sleutel is de letter waarnaar A wordt geschoven
