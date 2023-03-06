@@ -294,7 +294,6 @@ Gebasseerd op dit netwerk kan je elk netwerk maken
 
 ![[Routing & Switching Aantekening Week 3#Switches]]
 
-![[Routing & Switching Aantekening Week 3#Poorten]]
 
 ![[Routing & Switching Aantekening Week 3#Symmetrisch]]
 

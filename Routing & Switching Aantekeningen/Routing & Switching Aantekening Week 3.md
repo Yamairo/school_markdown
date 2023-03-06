@@ -58,7 +58,7 @@ De laag met de end devices (PC's, servers, printers, wireless acces points)
 	- Definieert hoeveel data de switch kan verwerken per seconde 
 	- lower performing switches gaan op de acces layer 
 	- higher performing  switches gaan op de distribution en care layers
-	- Als de forwarding rate te laag is, kan de switch $\underline{downtime} $
+	- Als de forwarding rate te laag is, kan de switch $\underline{downtime}$
 
 ### Types
 Layer 2: werkt met MAC-adressen
