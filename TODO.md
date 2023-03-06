@@ -10,7 +10,7 @@
 - [ ] [[Cyber practicum 2]] 
 - [ ] Aantekeningen [[Aantekeningen Cyber 1]]  afmaken
 - [ ] Proffesional skills ^f74a2b
-	- [ ] Video
+	- [x] Video
 	- [ ] Storyboard
 	- [ ] Presentatie architectuurontwerp
 - [ ] [[Routing & Switching Aantekening Week 3]]  afmaken

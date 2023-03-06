@@ -1098,8 +1098,8 @@
     "service": {
       "service": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677189114475
+          "count": 3,
+          "lastUpdated": 1678099657569
         }
       }
     },
@@ -1324,6 +1324,150 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1677684466513
+        }
+      }
+    },
+    "Identify": {
+      "Identify": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678096729469
+        }
+      }
+    },
+    "needs": {
+      "needs": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678096732638
+        }
+      }
+    },
+    "Network": {
+      "Network": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678099340745
+        }
+      }
+    },
+    "security": {
+      "security": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678099686577
+        }
+      }
+    },
+    "uitval": {
+      "uitval": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678099755739
+        }
+      }
+    },
+    "services": {
+      "services": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678099781250
+        }
+      }
+    },
+    "Vertrouwelijkheid": {
+      "Vertrouwelijkheid": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678099836297
+        }
+      }
+    },
+    "Integriteit": {
+      "Integriteit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678099864930
+        }
+      }
+    },
+    "fault": {
+      "fault": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678099945811
+        }
+      }
+    },
+    "beschikbaarheid": {
+      "beschikbaarheid": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678099959210
+        }
+      }
+    },
+    "Protocols": {
+      "Protocols": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678100546658
+        }
+      }
+    },
+    "elektromagnetische": {
+      "elektromagnetische": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678100436220
+        }
+      }
+    },
+    "golven": {
+      "golven": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678100440251
+        }
+      }
+    },
+    "Transport-laag": {
+      "Transport-laag": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678101235563
+        }
+      }
+    },
+    "segmenten": {
+      "segmenten": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678101309331
+        }
+      }
+    },
+    "Netwerk-laag": {
+      "Netwerk-laag": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678101411115
+        }
+      }
+    },
+    "Datalink-laag": {
+      "Datalink-laag": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678101615476
+        }
+      }
+    },
+    "Encapsulation": {
+      "Encapsulation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678102018087
         }
       }
     }

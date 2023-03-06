@@ -20,5 +20,6 @@
     "adres"
   ],
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Proffesional skills/PDF"
+  "attachmentFolderPath": "Proffesional skills/PDF",
+  "spellcheck": true
 }
