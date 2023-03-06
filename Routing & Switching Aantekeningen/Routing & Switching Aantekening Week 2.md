@@ -25,6 +25,8 @@
 | 255.255.0.0 of /16   | network     | network | host          | host        |
 | 255.255.255.0 of /24 | network     | network | network       | host        |
 
+^e8e8c4
+
 #### 172.16.20.0 / 25
 - Bereken het netwerkadres 
   *172.16.20.0*

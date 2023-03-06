@@ -14,14 +14,17 @@ Het zwarte netwerk is een normaal netwerk waarbij 2 PC's aan een server zijn aan
 - Elke laag heeft een specefieke functie
 
 Voorbeeld van een optimaal netwerk
-![[optimaal netwerk.jpg]]
+![[optimaal netwerk.jpg]] ^0f2f32
 
 In principe kun je elk netwerk gebasserd op dit voorbeeld maken
 
 ---
 ## Lagen
 ### Acces layer
-De laag met de end devices
+
+^cf746f
+
+De laag met de end devices (PC's, servers, printers, wireless acces points)
 
 ### Distribution layer 
 - Aggregatie van/naar de acces layer 
@@ -71,15 +74,17 @@ Stroomvervoer over dezelfde ethernet  kabel als het dataverkeer
 	- Berekent de CRC (Cyclic Redundancy Check) en checkt de frame lengte
 2. Cut-through
 	- Er moet minimaal de MAC-adressen worden gelezen
-	- Forward een frame direct nadat et destination ades gelezen is
+	- Forward een frame direct nadat het destination adres gelezen is
 	- Sneller dan store and forward 
 3. Cut-through / Fragment-free
 	- Slaat de eerste 64 bits van het frame op voordat het wordt geforward
 
 ---
 
-## Symetrisch
-Symm
+## Symmetrisch
+- Symmetrisch 
+	- Alle poorten hebben dezelfde bandbreedtes 
+	- Voor netwerk(deel) met stabiel netwerkverkeer
 ## Asymmetrisch switching 
 - Asymmetrisch 
 	- Sommige poorten hebben verschillende bandbreedtes
@@ -91,6 +96,7 @@ Symm
 ![[Pasted image 20230221112047.png]]
 
 ---
+
 
 ## Netwerken met VLANs 
 - Eeen VLAN id wordt toegekend aan een switchpoort
@@ -123,9 +129,12 @@ Dit heet trunking en word met de IEEE 802.1q standaard gedaan
 ## Routeren tussen VLANs 
 **AKA: Inter VLAN Routing**
 - VLANs zijn gescheiden van elkaar
+- Hosts in verschillende VLANs kunnen elkaar dus niet pingen
+- Om data van een VLAN naar een host in een ander VLAN te sturen heb je dus een router nodig
+- Dat kan met een "Router on a stick configuratie"
 
 ---
-## Configuratue voorbeeld router "On a stick"
+## Configuratie voorbeeld router "On a stick"
 ![[Pasted image 20230221114256.png]]
 Vergeet niet om de no shutdown command toe te voegen
 ```bash

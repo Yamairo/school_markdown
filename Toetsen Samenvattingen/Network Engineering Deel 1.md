@@ -220,7 +220,104 @@ Met een router word het broadcast domein verkleint, een broadcast domain is een 
 Bij een router worden broadcast berichten <a style="color:inherit">niet</a> doorgegeven naar het volgende netwerk en daarom wordt het broadcast domein gescheiden.
 
 ---
-## Routing & Switching (Week 2)
-In week twee hadden we het over sub-netten.
+## Routing & Switching (W;eek 2)
+In week twee hadden we het over subnetten.
 ### IPV4 adres
+
+#### Netwerkdeel en Hostdeel
 Een IP adres bestaat uit een <b style="color:red">Netwerkdeel</b> en een <b style="color:blue">Hostdeel</b> en is in totaal 32 bits lang.
+Het **netwerkmasker** bepaalt het netwerkdeel en het hostdeel
+Heet net masker bestaat uit een **$\underline{aaneensluitende}$** reeks aan enen gevold door een **$\underline{aaneensluitende}$**  reeks aan nullen. Waarbij de enen het netwerkdeel zijn en de nullen het hostdeel.
+![[Pasted image 20230306183721.png]]
+Deze enen en nullen zijn binaire getallen die als volgt worden opgeschreven. 
+```
+11111111.11111111.0000000.000000
+```
+
+In dit voorbeeld krijg je de volgende informatie uit het binaire getal
+```
+Dotted decimal: 255.255.0.0
+Prefix: /16
+Wildcard: 0.0.255.255
+```
+
+#### Adressentypen
+**Netwerkadres (subnet)** Bepaalt de range van het hostdeel. En word aangegeven met de prefix.
+**Hostadressen:** Adressen die worden gegeven aan de eindgebruikers van een netwerk. De range hiervan is het aantal bits dat over blijft na het instellen van het netwerkadres
+**Broadcastadres:** Wordt alleen maar gebruikt om data te versturen naar alle hosts in het netwerk.
+---
+#### Classful netmaskers
+![[Routing & Switching Aantekening Week 2#^e8e8c4]]
+In deze tabel is precies te zien waar het netwerkdeel eindigt en het hostdeel begint voor verschillende prefixes.
+---
+#### Subnet
+Voor alle subnetten geld er dat het aantal hosts gelijk is aan $s^{n}$ waarbij n het aantal host bits is. Stel je hebt 24 host bits dan zijn er dus $2^{24}=17777216$ hosts. Ook geld er dat er altijd een netwerkadres is en een broadcastadres.
+
+##### VLSM (Variable length subnetmask)
+*Met VLSM kan je*:
+**Classless** netwerken definiëren dus de prefix hoeft niet /8, /16 of /24 te zijn. 
+
+---
+
+#### Supernetten
+Naast subnetten heb je ook supernetten dit is wanner je netwerken combineert in een groter netwerk
+
+##### Voorbeelden Sub- en  supernetten 
+**Subnetten**
+```mermaid
+flowchart LR
+1(192.168.8.0/24) --> 2(192.168.8.0/25)
+1 --> 3(192.168.8.128/25)
+```
+**Supernetten**
+```mermaid
+flowchart LR
+1(192.168.8.0/25) --> 2(192.168.8.0/25)
+3(192.168.8.128/25) --> 2
+```
+
+---
+## Routing & Switching (week  3)
+In week 3 hebben we het over basic switching en VLAN's gehad
+### Netwerk Architectuur
+Het in lagen verdelen van een netwerk heeft als voordeel dat elke laag zijn eigen functie heeft. Daarnaast is het makkelijker te beheren en heeft het optimale performance.
+
+![[Routing & Switching Aantekening Week 3#^0f2f32]]
+
+Gebasseerd op dit netwerk kan je elk netwerk maken
+#### Lagen
+
+![[Routing & Switching Aantekening Week 3#Acces layer]]
+![[Routing & Switching Aantekening Week 3#Distribution layer]]
+![[Routing & Switching Aantekening Week 3#Core Layer]]
+![[Routing & Switching Aantekening Week 3#High availability]]
+
+![[Routing & Switching Aantekening Week 3#Switches]]
+
+![[Routing & Switching Aantekening Week 3#Poorten]]
+
+![[Routing & Switching Aantekening Week 3#Symmetrisch]]
+
+![[Routing & Switching Aantekening Week 3#Asymmetrisch switching]]
+
+![[Routing & Switching Aantekening Week 3#Netwerken met VLANs]]
+
+#voorbeeld 
+```mermaid
+flowchart  LR
+1(PC)-->2(Router)
+2 --> 3(PC)
+2 --> 4(PC)
+2 --> 5(PC)
+
+style 1 fill:yellow
+style 5 fill:yellow
+```
+
+![[Routing & Switching Aantekening Week 3#Speciale VLANs]]
+
+![[Routing & Switching Aantekening Week 3#Trunking]]
+
+![[Routing & Switching Aantekening Week 3#Routeren tussen VLANs]]
+
+![[Routing & Switching Aantekening Week 3#Configuratie voorbeeld router "On a stick"]]

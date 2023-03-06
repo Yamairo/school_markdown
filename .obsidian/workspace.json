@@ -21,12 +21,55 @@
             "group": "20f3024fd3937c17"
           },
           {
+            "id": "03a1b6c579adab7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bb67c1b5fd4ecf20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "08e119934254e6ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7c9fff33e3d842f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toetsen Samenvattingen/Network Engineering Deel 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "20f3024fd3937c17"
+          },
+          {
+            "id": "734cc5d83ea5a71e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,26 +93,24 @@
               }
             },
             "group": "20f3024fd3937c17"
-          }
-        ]
-      },
-      {
-        "id": "054855e95ca3eed9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "becfa261a7435bc5",
+            "id": "22505f89ebf14519",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Toetsen Samenvattingen/Network Engineering Deel 1.md",
-                "mode": "preview",
-                "source": true
+                "file": "Routing switching server.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0.5,
+                  "zoom": -0.773496496994552
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Core",
+                "query": "tag:#voorbeeld",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,13 +168,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "right": {
     "id": "a93f908bfa9733f6",
@@ -249,10 +288,14 @@
   },
   "active": "9cd0dfac1958de72",
   "lastOpenFiles": [
-    "Proffesional skills/pdf/Pasted image 20230306170220.png",
-    "Proffesional skills/pdf/Pasted image 20230306170200.png",
+    "Routing & Switching Practicum/Video Routing en switching.md",
     "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
     "Toetsen Samenvattingen/Network Engineering Deel 1.md",
+    "Routing switching server.canvas",
+    "Untitled.md",
+    "Proffesional skills/pdf/Pasted image 20230306183721.png",
+    "Proffesional skills/pdf/Pasted image 20230306170220.png",
+    "Proffesional skills/pdf/Pasted image 20230306170200.png",
     "Proffesional skills/pdf/Pasted image 20230306122638.png",
     "Proffesional skills/pdf/Pasted image 20230306122437.png",
     "Proffesional skills/pdf/Pasted image 20230306120922.png",
@@ -263,8 +306,6 @@
     "README.md",
     "Proffesional skills/pdf/Pasted image 20230306114642.png",
     "Proffesional skills/pdf/Pasted image 20230306114437.png",
-    "Proffesional skills/pdf/Pasted image 20230306114311.png",
-    "Routing & Switching Practicum/Video Routing en switching.md",
     "Test.md",
     "Proffesional skills/Proffesional skills Aantekeningen week 3.md",
     "TODO.md",
@@ -274,7 +315,6 @@
     "Cyber Practicum/pdf/Cyber practicum 1.pdf",
     "Cyber_Aantekeningen/pdf/Aantekeningen Cyber 2.pdf",
     "Cyber_Aantekeningen/pdf/Aantekeningen Cyber 1.pdf",
-    "Proffesional skills/pdf/Pasted image 20230301161254.png",
     "![[Pasted image 20230301155038.png]].md",
     "[Aantekeningen Cyber 1.md",
     "[.md",
@@ -296,7 +336,6 @@
     "hash.canvas",
     "Cyber_Aantekeningen/Cyber Aantekeningen week 3.md",
     "random_oracle.canvas",
-    "integriteit.canvas",
-    "Cyber_Aantekeningen/Aantekeningen Cyber 2.md"
+    "integriteit.canvas"
   ]
 }
