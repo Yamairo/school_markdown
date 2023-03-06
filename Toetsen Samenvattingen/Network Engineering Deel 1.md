@@ -1,8 +1,8 @@
 ```toc
 ```
 
-## Cyber security
 ---
+## Cybersecurity
 ### Cybersecurity (week 1)
 #### Inleiding
 In week 1 werd er een korte herhaling van Security essentials gehouden
@@ -102,9 +102,10 @@ Vernam encryptie is [[#Substitutie 3: Poly-alfabetische substitutie: Vignère]] 
 
 ---
 
-## Routing & Switching
+## Routing & Switching (week 1)
+### LAN & WAN
 
-### Routing & Switching (week 1)
+^4bd2cc
 
 - **WAN**
 	- "Wide Area Network"
@@ -117,16 +118,20 @@ Vernam encryptie is [[#Substitutie 3: Poly-alfabetische substitutie: Vignère]] 
 	- Verbindt clients
 
 ![[Pasted image 20230306114311.png]]
-
+**Mogelijke fouten in LAN**
+- **Collisions** Komen voor bij netwerken met een collision domain groter dan een host en bij een half-duplex verbinding
+- **Late collisions** Botsing na de 512<sup>e</sup> byte. Kan voorkomen als de kabel te lang (>100 meter) is, of bij duplex mismatch.
+- **CRC errors** Kan ontstaan door verschillende redenen. Bv duplex-mismatch, of door botsingen of storingen (vooral bij draadloze verbindingen)
+- **Runts** Een frame korten dan de minimale eis van 64 bytes. Ontstaat bij een collision. Ethernet framegroote moet altijd tussen 64-1518 bytes zitten
+- **Giants** Een frame groter dan 1518 bytes
+- **Discards**
 ---
-
 ### Netwerk-infrastructuur
-
 1. **Services view**
 2. **Components view**
 3. **Protocols view**
 
-#### 1. Services view
+#### 1. Services View
 ```
 De technische infrastructuur die bekeken vanuit de diensten die geleverd moet worden
 ```
@@ -152,8 +157,11 @@ De technische infrastructuur die bekeken vanuit de diensten die geleverd moet wo
 De belangrijkste manier om Fault tolerance en beschikbaarheid te behouden is redundancy (redundantie). Hierbij heb je een backup voor als de hoofd apparatuur niet werkend is.
 
 ---
+#### 2. Components View
+![Hierarchical Network Design Overview (1.1) > Cisco Networking Academy  Connecting Networks Companion Guide: Hierarchical Network Design | Cisco  Press](https://www.ciscopress.com/content/images/chap1_9781587133329/elementLinks/01fig07_alt.jpg)
 
-#### 2. Protocols view
+---
+#### 3. Protocols View
 Op een computernetwerk gebruikt software databussen. Maar het daadwerkelijke transport gaat via elektromagnetische golven door bv: *fiber, kabel, ether*.
 Netwerk -hardware en Software vertaalt de informatie behoefte van de applicatie naar elektrische signalen die worden verzonden via elektromagnetische golven.
 Om dit te doen hebben we <a style="color:inherit">netwerkprotocollen</a> nodig.
@@ -189,6 +197,30 @@ Elke laag van het OSI model levert een service aan de laag eronder
 <a style="color:inherit">Datalink-laag</a> Voegt een <b style="color:darkseagreen">header</b> en een <b style="color:darkseagreen">trailer</b> toe dit wordt doorgegeven aan de Fysieke laag
 <a style="color:inherit">Fysieke Laag</a> Voegt bits toe voor error-correctie
 ---
-In de afbeelding hieronder zie je de Encapsulation en decapsulation van
+In de afbeelding hieronder zie je de Encapsulation en decapsulation van de PDU's (Protocol data unit)
 ![[Pasted image 20230306122638.png]]
+---
+Eerder werd besproken over collisions bij ![[Network Engineering Deel 1#^4bd2cc]]
+Nu gaan we hier verder naar kijken
+### Collision vs Broadcast domains
 
+Een switch scheidt <b style="color:lime">collision domains</b> en <a style="color:inherit">geen</a> <b style="color:lightblue">broadcast domains</b>.
+![[Pasted image 20230306170220.png]]
+In dit voorbeeld zijn er 3 <b style="color:lime">collision domains</b> en 1 <b style="color:lightblue">broadcast domain</b>
+
+#### Scheiden
+Er zijn twee manieren om gescheiden broadcast domains te krijgen dit zijn:
+- Routers
+- Switch: VLAN (Virtual LAN)
+
+Bij VLAN's wordt de switch virtueel verdeelt in kleinere switches zodat elke poort een eigen LAN heeft.
+
+##### Router
+Met een router word het broadcast domein verkleint, een broadcast domain is een deel van een netwerk waar alle verstuurde berichten aankomen.
+Bij een router worden broadcast berichten <a style="color:inherit">niet</a> doorgegeven naar het volgende netwerk en daarom wordt het broadcast domein gescheiden.
+
+---
+## Routing & Switching (Week 2)
+In week twee hadden we het over sub-netten.
+### IPV4 adres
+Een IP adres bestaat uit een <b style="color:red">Netwerkdeel</b> en een <b style="color:blue">Hostdeel</b> en is in totaal 32 bits lang.
