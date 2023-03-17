@@ -1,4 +1,8 @@
 {
-  "accentColor": "",
-  "baseFontSize": 19
+  "accentColor": "#ef6b72",
+  "baseFontSize": 13,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "page_break"
+  ]
 }

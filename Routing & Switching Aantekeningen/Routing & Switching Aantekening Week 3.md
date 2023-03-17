@@ -99,9 +99,9 @@ Stroomvervoer over dezelfde ethernet  kabel als het dataverkeer
 
 
 ## Netwerken met VLANs 
-- Eeen VLAN id wordt toegekend aan een switchpoort
+- Een VLAN id wordt toegekend aan een switchpoort
 - Hosts die tot een gemeenschappelijk VLAN behoren, worden geconfigureerd in hetzelfde IP subnet
-- Iedere VLAN beschikt over eenuniek default-gateway adres.  De default-gateway is een router of multilayer switching
+- Iedere VLAN beschikt over een uniek default-gateway adres.  De default-gateway is een router of multilayer switching
 De VLAN kan niet door de andere LAN's bereikt worden
 Zie #voorbeeld 
 

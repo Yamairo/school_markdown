@@ -8,7 +8,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 60
+    "downscalePercent": 100
   },
   "spellcheckLanguages": [
     "nl",
@@ -21,5 +21,6 @@
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Proffesional skills/PDF",
-  "spellcheck": true
+  "spellcheck": true,
+  "livePreview": false
 }

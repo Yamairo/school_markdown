@@ -220,14 +220,14 @@ Met een router word het broadcast domein verkleint, een broadcast domain is een 
 Bij een router worden broadcast berichten <a style="color:inherit">niet</a> doorgegeven naar het volgende netwerk en daarom wordt het broadcast domein gescheiden.
 
 ---
-## Routing & Switching (W;eek 2)
+## Routing & Switching (Week 2)
 In week twee hadden we het over subnetten.
 ### IPV4 adres
 
 #### Netwerkdeel en Hostdeel
 Een IP adres bestaat uit een <b style="color:red">Netwerkdeel</b> en een <b style="color:blue">Hostdeel</b> en is in totaal 32 bits lang.
 Het **netwerkmasker** bepaalt het netwerkdeel en het hostdeel
-Heet net masker bestaat uit een **$\underline{aaneensluitende}$** reeks aan enen gevold door een **$\underline{aaneensluitende}$**  reeks aan nullen. Waarbij de enen het netwerkdeel zijn en de nullen het hostdeel.
+Het net masker bestaat uit een **$\underline{aaneensluitende}$** reeks aan enen gevold door een **$\underline{aaneensluitende}$**  reeks aan nullen. Waarbij de enen het netwerkdeel zijn en de nullen het hostdeel.
 ![[Pasted image 20230306183721.png]]
 Deze enen en nullen zijn binaire getallen die als volgt worden opgeschreven. 
 ```
@@ -251,7 +251,7 @@ Wildcard: 0.0.255.255
 In deze tabel is precies te zien waar het netwerkdeel eindigt en het hostdeel begint voor verschillende prefixes.
 ---
 #### Subnet
-Voor alle subnetten geld er dat het aantal hosts gelijk is aan $s^{n}$ waarbij n het aantal host bits is. Stel je hebt 24 host bits dan zijn er dus $2^{24}=17777216$ hosts. Ook geld er dat er altijd een netwerkadres is en een broadcastadres.
+Voor alle subnetten geld er dat het aantal hosts gelijk is aan $2^{n}$ waarbij n het aantal host bits is. Stel je hebt 24 host bits dan zijn er dus $2^{24}=17777216$ hosts. Ook geld er dat er altijd een netwerkadres is en een broadcastadres.
 
 ##### VLSM (Variable length subnetmask)
 *Met VLSM kan je*:

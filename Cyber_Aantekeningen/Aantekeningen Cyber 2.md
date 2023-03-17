@@ -1,6 +1,6 @@
 
 
-# Kerchoff's law (1)
+# Kerchoff' law (1)
 ***The enemy knows the system***
 - Betekenis voor cryptografie
 	  *De veiligheid van een cryptosysteem mag niet afhangen van 
@@ -8,13 +8,13 @@
 	  Geheim mag een $\underline{sleutel}$ zijn van beperkte omvang*
   - Motivatie:
     1. Sleutels zijn eenvoudiger te verversen dan systemen/algoritmes
-    2. Vaak moeten systemen ivm stadardisatie worden gepubliceerd (bijv. )
+    2. Vaak moeten systemen i.v.m. standaardisering worden gepubliceerd (bijv. )
 
-# Kirchoffs law (2)
+# Kerchoff' law (2)
 - Opmerking:
-  *Je zou denken dat het meest veilig is om en de sleutel en de methode geheim te houfen maar vanwege punt 4 is dat niet het geval* Toch komt dit vaaak voor. Eeen bekende term hiervoor is <a>security by obscurity </a> 
+  *Je zou denken dat het meest veilig is om en de sleutel en de methode geheim te houden maar vanwege punt 4 is dat niet het geval* Toch komt dit vaaak voor. Eeen bekende term hiervoor is <a style="color:inherit">security by obscurity </a> 
 
-## Chiper -only attack: Frequentie-analyse
+## Chipher -only attack: Frequentie-analyse
 Je kijkt hierbij naar de meest gebruikte letters om zo de encryptie te decrypten.
 
 # Onkraakbaar: One Time Pad (OTP)

@@ -79,190 +79,6 @@
         }
       }
     },
-    "ordering": {
-      "ordering": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675970212853
-        }
-      }
-    },
-    "Opdracht": {
-      "Opdracht": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676361291932
-        }
-      }
-    },
-    "Deliverables": {
-      "Deliverables": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676361770260
-        }
-      }
-    },
-    "deliverables": {
-      "deliverables": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676361783256
-        }
-      }
-    },
-    "Oriëntatiefase": {
-      "Oriëntatiefase": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676361812278
-        }
-      }
-    },
-    "doelstelling": {
-      "doelstelling": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676361826651
-        }
-      }
-    },
-    "Doelstelling": {
-      "Doelstelling": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676361946753
-        }
-      }
-    },
-    "Beheersing": {
-      "Beheersing": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1676362126020
-        }
-      }
-    },
-    "communicatie": {
-      "communicatie": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676363502392
-        }
-      }
-    },
-    "ijdsgebonden": {
-      "ijdsgebonden": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676362804657
-        }
-      }
-    },
-    "deliverable": {
-      "deliverable": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676362821258
-        }
-      }
-    },
-    "project": {
-      "project": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676362931168
-        }
-      }
-    },
-    "tijdens": {
-      "tijdens": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676363033089
-        }
-      }
-    },
-    "activiteit": {
-      "activiteit": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1676363153938
-        }
-      }
-    },
-    "Kritieke": {
-      "Kritieke": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676363052968
-        }
-      }
-    },
-    "planning": {
-      "planning": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1676363496452
-        }
-      }
-    },
-    "activiteiten": {
-      "activiteiten": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676363441935
-        }
-      }
-    },
-    "afhankelijke": {
-      "afhankelijke": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676363434324
-        }
-      }
-    },
-    "middel": {
-      "middel": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676363463537
-        }
-      }
-    },
-    "kritieke": {
-      "kritieke": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676363471133
-        }
-      }
-    },
-    "partijen": {
-      "partijen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676363510937
-        }
-      }
-    },
-    "Fishbone_diagram": {
-      "Fishbone_diagram": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676363792650
-        }
-      }
-    },
-    "adressen": {
-      "adressen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676367698353
-        }
-      }
-    },
     "adres": {
       "adres": {
         "currentFile": {
@@ -271,51 +87,11 @@
         }
       }
     },
-    "Hostdeel": {
-      "Hostdeel": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676367960331
-        }
-      }
-    },
-    "Netwerkdeel": {
-      "Netwerkdeel": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676368113936
-        }
-      }
-    },
-    "Hostadressen": {
-      "Hostadressen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676368181476
-        }
-      }
-    },
     "hostdeel": {
       "hostdeel": {
         "currentFile": {
           "count": 5,
           "lastUpdated": 1678124909670
-        }
-      }
-    },
-    "network": {
-      "network": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676368411776
-        }
-      }
-    },
-    "octet": {
-      "octet": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676368687517
         }
       }
     },
@@ -332,46 +108,6 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1678125097160
-        }
-      }
-    },
-    "Bereken": {
-      "Bereken": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676368741670
-        }
-      }
-    },
-    "hostadressen": {
-      "hostadressen": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1676368760907
-        }
-      }
-    },
-    "hostadres": {
-      "hostadres": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676369230425
-        }
-      }
-    },
-    "\\underline": {
-      "\\underline": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676369430897
-        }
-      }
-    },
-    "\\underline{Hostdeel}": {
-      "\\underline{Hostdeel}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676369848692
         }
       }
     },
@@ -1514,8 +1250,8 @@
     "style": {
       "style": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678119384301
+          "count": 2,
+          "lastUpdated": 1678182898052
         }
       }
     },
@@ -1580,6 +1316,158 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1678128487100
+        }
+      }
+    },
+    "Hello": {
+      "Hello": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678176697636
+        }
+      }
+    },
+    "Sequencing": {
+      "Sequencing": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678177569674
+        }
+      }
+    },
+    "Priority": {
+      "Priority": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678182988284
+        }
+      }
+    },
+    "MAC-adres": {
+      "MAC-adres": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678185058923
+        }
+      }
+    },
+    "root-path-cost": {
+      "root-path-cost": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678183405161
+        }
+      }
+    },
+    "Blocked": {
+      "Blocked": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678183600499
+        }
+      }
+    },
+    "designated": {
+      "designated": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678184167462
+        }
+      }
+    },
+    "machtsverheffen": {
+      "machtsverheffen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678349185108
+        }
+      }
+    },
+    "\\mathbb{Z}_{n}": {
+      "\\mathbb{Z}_{n}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678349680514
+        }
+      }
+    },
+    "Alice": {
+      "Alice": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1678350197290
+        }
+      }
+    },
+    "Opdracht": {
+      "Opdracht": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1679032887697
+        }
+      }
+    },
+    "processor": {
+      "processor": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678971938502
+        }
+      }
+    },
+    "C\\rightarrow{D}": {
+      "C\\rightarrow{D}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1678972904968
+        }
+      }
+    },
+    "\\rightarrow{C}": {
+      "\\rightarrow{C}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679032981745
+        }
+      }
+    },
+    "Hypothese": {
+      "Hypothese": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678972916776
+        }
+      }
+    },
+    "verwachting": {
+      "verwachting": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678991408162
+        }
+      }
+    },
+    "A\\rightarrow{B}": {
+      "A\\rightarrow{B}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679034215917
+        }
+      }
+    },
+    "hypothese": {
+      "hypothese": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679035487444
+        }
+      }
+    },
+    "B\\rightarrow{C}": {
+      "B\\rightarrow{C}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679036104032
         }
       }
     }

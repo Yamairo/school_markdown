@@ -4,113 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "031ca0bcbc920d2b",
+        "id": "75d3536a2a171442",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd0dfac1958de72",
+            "id": "b9d8ed191a0c4985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toetsen Samenvattingen/Network Engineering Deel 1.md",
+                "file": "Logic Practicum/Logic Practicum E.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "20f3024fd3937c17"
-          },
-          {
-            "id": "03a1b6c579adab7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb67c1b5fd4ecf20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            "group": "12fafd2aaad7e500"
           }
         ]
       },
       {
-        "id": "08e119934254e6ff",
+        "id": "57b46be289a6d910",
         "type": "tabs",
         "children": [
           {
-            "id": "b7c9fff33e3d842f",
+            "id": "5a0a6913c39e6946",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toetsen Samenvattingen/Network Engineering Deel 1.md",
+                "file": "Logic Practicum/Logic Practicum E.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "20f3024fd3937c17"
-          },
-          {
-            "id": "734cc5d83ea5a71e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            "group": "12fafd2aaad7e500"
           }
         ]
-      },
-      {
-        "id": "ee77438efd7a5c15",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d787b77f366e92b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toetsen Samenvattingen/Network Engineering Deel 1.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "20f3024fd3937c17"
-          },
-          {
-            "id": "22505f89ebf14519",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Routing switching server.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0.5,
-                  "zoom": -0.773496496994552
-                }
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#voorbeeld",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,7 +85,7 @@
               "state": {
                 "file": "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -172,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "a93f908bfa9733f6",
@@ -188,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toetsen Samenvattingen/Network Engineering Deel 1.md",
+                "file": "Logic Practicum/Logic Practicum E.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toetsen Samenvattingen/Network Engineering Deel 1.md",
+                "file": "Logic Practicum/Logic Practicum E.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toetsen Samenvattingen/Network Engineering Deel 1.md"
+                "file": "Logic Practicum/Logic Practicum E.md"
               }
             }
           },
@@ -257,7 +187,7 @@
             }
           },
           {
-            "id": "108833c20d197d0b",
+            "id": "a23653778e3830c9",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -265,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -283,58 +213,60 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "9cd0dfac1958de72",
+  "active": "b9d8ed191a0c4985",
   "lastOpenFiles": [
-    "Routing & Switching Practicum/Video Routing en switching.md",
-    "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
+    "Logic Practicum/Logic Practicum D.md",
+    "Logic Practicum/Logic practicum B.md",
+    "Logic Practicum/Logic practicum A.md",
+    "Logic Practicum/Logic Practicum E.md",
+    "Logic Practicum/screenshot 1.png",
+    "Logic Practicum/pdf/Logic Practicum D.pdf",
+    "Logic Aantekeningen/Logic Aantekeningen week 5.md",
+    "Proffesional skills/pdf/Pasted image 20230316185354.png",
+    "ransomware of cryptoware.md",
+    "Cyber Practicum/Cyber Aantekeningen Week 5.md",
+    "Routing & Switching Practicum/Routing and switching practicum 2.md",
+    "Routing & Switching Practicum/Routing & Switching Practicum 3.md",
+    "hash.canvas",
+    "TODO.md",
+    "The Office week 3.md",
+    "Test.md",
+    "Secret les van zwaard.md",
+    "Notulen.md",
+    "Architectuurontwerp Groep 10.md",
+    "Proffesional skills/Proffesional Skills Aantekeningen Week 5.md",
+    "Architectuurontwerp (3)/Architectuurontwerp (3)-1.png",
+    "Architectuurontwerp (3)",
+    "Architectuurontwerp (2)/Architectuurontwerp (2)-1.png",
+    "Architectuurontwerp (2)",
+    "Architectuurontwerp (1)/Architectuurontwerp (1)-1.png",
+    "Architectuurontwerp (1)",
+    "Architectuurontwerp/Architectuurontwerp-1.png",
+    "Architectuurontwerp",
+    "Architectuurontwerp.pdf",
+    "Architectuurontwerp (3).pdf",
+    "Architectuurontwerp (2).pdf",
+    "Architectuurontwerp (1).pdf",
     "Toetsen Samenvattingen/Network Engineering Deel 1.md",
-    "Toetsen Samenvattingen/Network Engineering Deel 1.pdf",
+    "Cyber_Aantekeningen/Aantekeningen Cyber 2.md",
+    "Cyber_Aantekeningen/Aantekeningen Cyber 1.md",
+    "Routing & Switching Practicum/Video Routing en switching.md",
+    "Logic Aantekeningen/Logic Aantekeningen week 4.md",
+    "Cyber_Aantekeningen/Cyber Aantekeningen Week 4.md",
+    "Routing & Switching Aantekeningen/Routing & Switching week 4.md",
     "Routing switching server.canvas",
-    "Untitled.md",
+    "Cyber_Aantekeningen/Cyber Aantekeningen week 3.md",
+    "Toetsen Samenvattingen/Network Engineering Deel 1.pdf",
+    "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
+    "Proffesional skills/pdf/Pasted image 20230307113659.png",
+    "Cyber Practicum/Cyber practicum 3.md",
     "Proffesional skills/pdf/Pasted image 20230306183721.png",
     "Proffesional skills/pdf/Pasted image 20230306170220.png",
     "Proffesional skills/pdf/Pasted image 20230306170200.png",
-    "Proffesional skills/pdf/Pasted image 20230306122638.png",
-    "Proffesional skills/pdf/Pasted image 20230306122437.png",
-    "Proffesional skills/pdf/Pasted image 20230306120922.png",
-    "Proffesional skills/pdf/Pasted image 20230306120828.png",
-    "Proffesional skills/pdf/Pasted image 20230306115601.png",
-    "Cyber_Aantekeningen/Aantekeningen Cyber 1.md",
-    "Logic Practicum/Logic practicum A.md",
-    "README.md",
-    "Proffesional skills/pdf/Pasted image 20230306114642.png",
-    "Proffesional skills/pdf/Pasted image 20230306114437.png",
-    "Test.md",
-    "Proffesional skills/Proffesional skills Aantekeningen week 3.md",
-    "TODO.md",
-    "Proffesional skills/Proffesional skills Aantekeningen week 2.md",
-    "Cyber Practicum/pdf/Cyber practicum 3.pdf",
-    "Cyber Practicum/pdf/Cyber practicum 2.pdf",
-    "Cyber Practicum/pdf/Cyber practicum 1.pdf",
-    "Cyber_Aantekeningen/pdf/Aantekeningen Cyber 2.pdf",
-    "Cyber_Aantekeningen/pdf/Aantekeningen Cyber 1.pdf",
-    "![[Pasted image 20230301155038.png]].md",
-    "[Aantekeningen Cyber 1.md",
-    "[.md",
-    "Network Engeneering Deel 1^Caes.md",
-    "Cyber Practicum/Cyber practicum 3.md",
-    "Routing & Switching Practicum/Routing & Switching Practicum 3.md",
-    "Toetsen Samenvattingen",
-    "Routing & Switching Practicum/pdf/Cyber practicum 3.pdf",
-    "Cyber Practicum/Cyber practicum 2.md",
-    "Untitled 1.md",
-    "Routing & Switching Practicum/Routing and switching practicum 2.md",
-    "Routing & Switching Practicum/pdf/Routing and switching practicum 2.pdf",
-    "Routing & Switching Practicum/05654ac548c7c7de0c988023df3eb5b5.pdf",
-    "Logic Practicum/Logic practicum B.md",
-    "The Office week 3.md",
-    "Cyber Practicum/Cyber practicum 1.md",
-    "Logic Aantekeningen/Logic Aantekeningen week 3.md",
-    "hash.canvas",
-    "Cyber_Aantekeningen/Cyber Aantekeningen week 3.md",
     "random_oracle.canvas",
     "integriteit.canvas"
   ]
