@@ -34,6 +34,7 @@ Het commando hierboven geeft het volgende resultaat
 ![[Pasted image 20230307113659.png]]
 
 ### Portfast
+Dan gaat hij sneller over van de learning state naar de forwarding state.
 ```bash
 Switch(config)#int fa0/0
 Switch(config-if)#spanning-tree portfast

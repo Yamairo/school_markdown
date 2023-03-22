@@ -1,8 +1,8 @@
 {
   "accentColor": "#ef6b72",
-  "baseFontSize": 13,
+  "baseFontSize": 15,
   "cssTheme": "",
   "enabledCssSnippets": [
-    "page_break"
+    "bullet points"
   ]
 }
