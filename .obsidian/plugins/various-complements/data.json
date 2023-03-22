@@ -1266,8 +1266,8 @@
     "Hypothese": {
       "Hypothese": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678972916776
+          "count": 4,
+          "lastUpdated": 1679499792385
         }
       }
     },
@@ -1498,24 +1498,24 @@
     "\\rightarrow": {
       "\\rightarrow": {
         "currentFile": {
-          "count": 14,
-          "lastUpdated": 1679495556451
+          "count": 17,
+          "lastUpdated": 1679499433308
         }
       }
     },
     "\\exists{x}": {
       "\\exists{x}": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679495623252
+          "count": 5,
+          "lastUpdated": 1679497146559
         }
       }
     },
     "\\forall{x}": {
       "\\forall{x}": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679495571459
+          "count": 4,
+          "lastUpdated": 1679497108805
         }
       }
     },
@@ -1538,8 +1538,64 @@
     "Universele": {
       "Universele": {
         "currentFile": {
+          "count": 4,
+          "lastUpdated": 1679500542115
+        }
+      }
+    },
+    "Instantiatie": {
+      "Instantiatie": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679501110188
+        }
+      }
+    },
+    "Existientiële": {
+      "Existientiële": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679501156795
+        }
+      }
+    },
+    "Generalisatie": {
+      "Generalisatie": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679501159724
+        }
+      }
+    },
+    "onderstaande": {
+      "onderstaande": {
+        "currentFile": {
           "count": 1,
-          "lastUpdated": 1679496316807
+          "lastUpdated": 1679498778230
+        }
+      }
+    },
+    "redeneerschema": {
+      "redeneerschema": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679498780790
+        }
+      }
+    },
+    "\\color{red}{\\rightarrow}": {
+      "\\color{red}{\\rightarrow}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679499820115
+        }
+      }
+    },
+    "\\exists{y}": {
+      "\\exists{y}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679501351805
         }
       }
     }
