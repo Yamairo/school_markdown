@@ -1258,16 +1258,16 @@
     "\\rightarrow{C}": {
       "\\rightarrow{C}": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679032981745
+          "count": 4,
+          "lastUpdated": 1679505131800
         }
       }
     },
     "Hypothese": {
       "Hypothese": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679499792385
+          "count": 11,
+          "lastUpdated": 1679508156767
         }
       }
     },
@@ -1282,8 +1282,8 @@
     "A\\rightarrow{B}": {
       "A\\rightarrow{B}": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679034215917
+          "count": 6,
+          "lastUpdated": 1679508126784
         }
       }
     },
@@ -1498,8 +1498,8 @@
     "\\rightarrow": {
       "\\rightarrow": {
         "currentFile": {
-          "count": 17,
-          "lastUpdated": 1679499433308
+          "count": 21,
+          "lastUpdated": 1679507350917
         }
       }
     },
@@ -1596,6 +1596,62 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679501351805
+        }
+      }
+    },
+    "Implicatie": {
+      "Implicatie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679506569428
+        }
+      }
+    },
+    "Implicatievervaning": {
+      "Implicatievervaning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679506578909
+        }
+      }
+    },
+    "\\neg{B}": {
+      "\\neg{B}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679508077393
+        }
+      }
+    },
+    "\\neg{A}": {
+      "\\neg{A}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679507994918
+        }
+      }
+    },
+    "\\neg{A}\\land": {
+      "\\neg{A}\\land": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679506760444
+        }
+      }
+    },
+    "Simplificatie": {
+      "Simplificatie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679507865978
+        }
+      }
+    },
+    "A\\rightarrow": {
+      "A\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679508167136
         }
       }
     }

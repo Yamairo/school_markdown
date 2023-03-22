@@ -30,7 +30,7 @@
    $(\exists{x})[P(x)\rightarrow Q(x)]$ $\color{red}{\rightarrow}$$[(\forall{x})P(x)\rightarrow (\exists{x} )Q(x)]$
 	1. $(\exists{x} )[P(x) \rightarrow Q(x)]$ Hypothese
 	2. $P(a) \rightarrow Q(a)$ 1, Universele Instantiatie
-	3. $(\forall{x})P(x)$ 1, Universele Generalisatie
+	3. $(\forall{x})P(x)$ Hypothese
 	4. $P(a)$ 3, Universele Instantiatie 
 	5. $Q(a)$ 2, 4 Modus Ponens
 	6. $(\exists{x})Q(x)$ 5, Existientiële Generalisatie 
@@ -55,7 +55,7 @@
 6. Bewijs met behulp van een redeneerschema de geldigheid van het argument  $(\forall x)P(x)$ $\color{red}{\rightarrow}$ $(\forall x)[P(x) \lor Q(x)]$
 	1. $(\forall x)P(x)$ Hypothese 
 	2. $P(t)$ 1, Universele Instantiatie 
-	3. $P(t) \land Q(a)$ 2, Additie of toevoeging
+	3. $P(t) \lor Q(a)$ 2, Additie of toevoeging
 	4. $(\forall x)[P(x) \lor Q(x)]$ 3, 4 Universele Generalisatie
 7. Bewijs met behulp van een redeneerschema de geldigheid van het argument  $(\exists x)(\exists y)P(x,y)$$\color{red}{\rightarrow}$$(\exists y)(\exists x)P(x,y)$
 	1. $(\exists x)(\exists y)P(x,y)$ Hypothese
