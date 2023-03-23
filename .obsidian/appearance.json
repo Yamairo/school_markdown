@@ -1,8 +1,9 @@
 {
   "accentColor": "#ef6b72",
   "baseFontSize": 15,
-  "cssTheme": "",
+  "cssTheme": "obsidian_alt",
   "enabledCssSnippets": [
     "bullet points"
-  ]
+  ],
+  "theme": "moonstone"
 }

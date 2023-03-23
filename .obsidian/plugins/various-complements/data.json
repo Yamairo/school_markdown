@@ -95,30 +95,6 @@
         }
       }
     },
-    "Binair": {
-      "Binair": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676902762387
-        }
-      }
-    },
-    "adresseren": {
-      "adresseren": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676914000808
-        }
-      }
-    },
-    "hosts": {
-      "hosts": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676914049928
-        }
-      }
-    },
     "Subnetmask": {
       "Subnetmask": {
         "currentFile": {
@@ -1210,8 +1186,8 @@
     "machtsverheffen": {
       "machtsverheffen": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678349185108
+          "count": 2,
+          "lastUpdated": 1679551345729
         }
       }
     },
@@ -1234,8 +1210,8 @@
     "Opdracht": {
       "Opdracht": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679032887697
+          "count": 6,
+          "lastUpdated": 1679551778666
         }
       }
     },
@@ -1652,6 +1628,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679508167136
+        }
+      }
+    },
+    "vermenigvuldigingen": {
+      "vermenigvuldigingen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679550634415
+        }
+      }
+    },
+    "mogelijke": {
+      "mogelijke": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679551005339
+        }
+      }
+    },
+    "onweerlegbaar": {
+      "onweerlegbaar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679553295965
         }
       }
     }

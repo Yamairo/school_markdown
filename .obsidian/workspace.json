@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Practicum/20072716_en_17036224_YamairoMartinus_e n_ArjanKuiper_practicumE.md",
+                "file": "Logic Practicum/Logic E.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Practicum/20072716_en_17036224_YamairoMartinus_e n_ArjanKuiper_practicumE.md",
+                "file": "Logic Practicum/Logic E.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,13 +97,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "a93f908bfa9733f6",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Practicum/20072716_en_17036224_YamairoMartinus_e n_ArjanKuiper_practicumE.md",
+                "file": "Logic Practicum/Logic E.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic Practicum/20072716_en_17036224_YamairoMartinus_e n_ArjanKuiper_practicumE.md",
+                "file": "Logic Practicum/Logic E.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic Practicum/20072716_en_17036224_YamairoMartinus_e n_ArjanKuiper_practicumE.md"
+                "file": "Logic Practicum/Logic E.md"
               }
             }
           },
@@ -220,8 +218,11 @@
   },
   "active": "b59bdbdf8c81bdf4",
   "lastOpenFiles": [
+    "Logic Practicum/pdf/Logic E.pdf",
+    "Logic Practicum/Logic Practicum G.md",
     "Logic Practicum/Logic Practicum F.md",
-    "Logic Practicum/20072716_en_17036224_YamairoMartinus_e n_ArjanKuiper_practicumE.md",
+    "Logic Practicum/Logic E.md",
+    "Cyber Practicum/Cyber Practicum 6.md",
     "Logic Practicum/pdf/Logic Practicum F.pdf",
     "Proffesional skills/pdf/Pasted image 20230322170433.png",
     "Logic Aantekeningen/Logic Symbol Cheat Sheet.md",
@@ -254,8 +255,6 @@
     "The Office week 3.md",
     "Test.md",
     "Secret les van zwaard.md",
-    "Notulen.md",
-    "Architectuurontwerp Groep 10.md",
     "Architectuurontwerp (3)/Architectuurontwerp (3)-1.png",
     "Architectuurontwerp (3)",
     "Architectuurontwerp (2)/Architectuurontwerp (2)-1.png",
