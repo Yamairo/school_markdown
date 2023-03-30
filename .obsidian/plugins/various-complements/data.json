@@ -47,14 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "32766": {
-      "32766": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677183806709
-        }
-      }
-    },
     "11111111": {
       "11111111": {
         "currentFile": {
@@ -95,211 +87,11 @@
         }
       }
     },
-    "Subnetmask": {
-      "Subnetmask": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1677181738477
-        }
-      }
-    },
-    "groepsdynamiek": {
-      "groepsdynamiek": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676966801264
-        }
-      }
-    },
-    "ontstaan": {
-      "ontstaan": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676967244036
-        }
-      }
-    },
-    "communiceren": {
-      "communiceren": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676967422914
-        }
-      }
-    },
-    "Netwerk": {
-      "Netwerk": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677180968011
-        }
-      }
-    },
-    "layer": {
-      "layer": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1676973496241
-        }
-      }
-    },
-    "Layer": {
-      "Layer": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676973653922
-        }
-      }
-    },
-    "netwerk": {
-      "netwerk": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676972818219
-        }
-      }
-    },
-    "distribution": {
-      "distribution": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676973508413
-        }
-      }
-    },
-    "availability": {
-      "availability": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676973061205
-        }
-      }
-    },
-    "Processes": {
-      "Processes": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676973128158
-        }
-      }
-    },
-    "performing": {
-      "performing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676973501100
-        }
-      }
-    },
-    "\\underline{downtime}": {
-      "\\underline{downtime}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676973629716
-        }
-      }
-    },
-    "ethernet": {
-      "ethernet": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676973714475
-        }
-      }
-    },
-    "forwarden": {
-      "forwarden": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676973790070
-        }
-      }
-    },
-    "frame": {
-      "frame": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676973820688
-        }
-      }
-    },
-    "switch": {
-      "switch": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676973835754
-        }
-      }
-    },
-    "MAC-adressen": {
-      "MAC-adressen": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1676974191918
-        }
-      }
-    },
-    "forward": {
-      "forward": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676973912112
-        }
-      }
-    },
-    "Cut-through": {
-      "Cut-through": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676973917921
-        }
-      }
-    },
-    "switching": {
-      "switching": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676974020485
-        }
-      }
-    },
-    "Asymetrisch": {
-      "Asymetrisch": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676974031767
-        }
-      }
-    },
-    "Redundancy": {
-      "Redundancy": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676974164970
-        }
-      }
-    },
-    "Model": {
-      "Model": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676974756738
-        }
-      }
-    },
     "VLANs": {
       "VLANs": {
         "currentFile": {
           "count": 8,
           "lastUpdated": 1678128921924
-        }
-      }
-    },
-    "default-gateway": {
-      "default-gateway": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676975139351
         }
       }
     },
@@ -311,214 +103,6 @@
         }
       }
     },
-    "kunnen": {
-      "kunnen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676975361479
-        }
-      }
-    },
-    "trunking": {
-      "trunking": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676975406050
-        }
-      }
-    },
-    "nativ-VLAN": {
-      "nativ-VLAN": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676975734997
-        }
-      }
-    },
-    "Week 3": {
-      "Week 3": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1676976129865
-        }
-      }
-    },
-    "shutdown": {
-      "shutdown": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1677352163726
-        }
-      }
-    },
-    "pingen": {
-      "pingen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676976447941
-        }
-      }
-    },
-    "Metasploitable": {
-      "Metasploitable": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676987617044
-        }
-      }
-    },
-    "Drinkwatertank": {
-      "Drinkwatertank": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677076996951
-        }
-      }
-    },
-    "Drinkwaterpomp": {
-      "Drinkwaterpomp": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1677077733640
-        }
-      }
-    },
-    "drooglegbeveiliging": {
-      "drooglegbeveiliging": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677077486264
-        }
-      }
-    },
-    "afvoerklep": {
-      "afvoerklep": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677077580278
-        }
-      }
-    },
-    "aanvoerklep": {
-      "aanvoerklep": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677077720098
-        }
-      }
-    },
-    "Toiletpomp": {
-      "Toiletpomp": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677077642615
-        }
-      }
-    },
-    "buitenboord": {
-      "buitenboord": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677077665095
-        }
-      }
-    },
-    "aanzuigklep": {
-      "aanzuigklep": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677077672774
-        }
-      }
-    },
-    "Circuit": {
-      "Circuit": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677081447542
-        }
-      }
-    },
-    "protocol": {
-      "protocol": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677092711503
-        }
-      }
-    },
-    "Volgt": {
-      "Volgt": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677093359132
-        }
-      }
-    },
-    "zwakbaarheden": {
-      "zwakbaarheden": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677093816365
-        }
-      }
-    },
-    "excellent": {
-      "excellent": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677098064197
-        }
-      }
-    },
-    "www-data": {
-      "www-data": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677100089700
-        }
-      }
-    },
-    "bescherming": {
-      "bescherming": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677139573090
-        }
-      }
-    },
-    "integriteit": {
-      "integriteit": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677140135253
-        }
-      }
-    },
-    "hashfuncties": {
-      "hashfuncties": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677140912901
-        }
-      }
-    },
-    "onveilig": {
-      "onveilig": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677140954767
-        }
-      }
-    },
-    "veilig": {
-      "veilig": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677141005216
-        }
-      }
-    },
     "gebruiker": {
       "gebruiker": {
         "currentFile": {
@@ -527,179 +111,11 @@
         }
       }
     },
-    "Toepassing": {
-      "Toepassing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677141863114
-        }
-      }
-    },
-    "Authenticatie": {
-      "Authenticatie": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677142028204
-        }
-      }
-    },
-    "toegang": {
-      "toegang": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677142107750
-        }
-      }
-    },
-    "Address": {
-      "Address": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677180987382
-        }
-      }
-    },
-    "Adres": {
-      "Adres": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677181603540
-        }
-      }
-    },
-    "subnet": {
-      "subnet": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677181619579
-        }
-      }
-    },
-    "---------------": {
-      "---------------": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677182301615
-        }
-      }
-    },
-    "------------------": {
-      "------------------": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677182318438
-        }
-      }
-    },
-    "-------------------------------------------": {
-      "-------------------------------------------": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677182322256
-        }
-      }
-    },
-    "Bruteforce": {
-      "Bruteforce": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677188418774
-        }
-      }
-    },
-    "attack": {
-      "attack": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677188439043
-        }
-      }
-    },
-    "Dictionairy": {
-      "Dictionairy": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677188436898
-        }
-      }
-    },
-    "hydra": {
-      "hydra": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677188443411
-        }
-      }
-    },
-    "passwords": {
-      "passwords": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677188638220
-        }
-      }
-    },
-    "bruteforce": {
-      "bruteforce": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677188690145
-        }
-      }
-    },
     "service": {
       "service": {
         "currentFile": {
           "count": 3,
           "lastUpdated": 1678099657569
-        }
-      }
-    },
-    "wachtwoord": {
-      "wachtwoord": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677189559853
-        }
-      }
-    },
-    "dictionairy": {
-      "dictionairy": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677189749430
-        }
-      }
-    },
-    "gebruikt": {
-      "gebruikt": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677189757403
-        }
-      }
-    },
-    "wachtwoorden": {
-      "wachtwoorden": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677189863004
-        }
-      }
-    },
-    "enable": {
-      "enable": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677329815332
-        }
-      }
-    },
-    "address": {
-      "address": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677330711391
         }
       }
     },
@@ -1058,8 +474,8 @@
     "style": {
       "style": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678182898052
+          "count": 4,
+          "lastUpdated": 1680167725655
         }
       }
     },
@@ -1474,8 +890,8 @@
     "\\rightarrow": {
       "\\rightarrow": {
         "currentFile": {
-          "count": 21,
-          "lastUpdated": 1679507350917
+          "count": 22,
+          "lastUpdated": 1680166215092
         }
       }
     },
@@ -1652,6 +1068,174 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679553295965
+        }
+      }
+    },
+    "Inleiding": {
+      "Inleiding": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679566311931
+        }
+      }
+    },
+    "color": {
+      "color": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679996441818
+        }
+      }
+    },
+    "Database": {
+      "Database": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679567986136
+        }
+      }
+    },
+    "prolog": {
+      "prolog": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679573819864
+        }
+      }
+    },
+    "Gedaana": {
+      "Gedaana": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679686728001
+        }
+      }
+    },
+    "Gedaan": {
+      "Gedaan": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679686744616
+        }
+      }
+    },
+    "destination": {
+      "destination": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679993732042
+        }
+      }
+    },
+    "Standaard": {
+      "Standaard": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679993722167
+        }
+      }
+    },
+    "standaard": {
+      "standaard": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679993765273
+        }
+      }
+    },
+    "Extended": {
+      "Extended": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679993840101
+        }
+      }
+    },
+    "gebruikt": {
+      "gebruikt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679994371624
+        }
+      }
+    },
+    "Address": {
+      "Address": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679996453057
+        }
+      }
+    },
+    "Outside": {
+      "Outside": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679996516604
+        }
+      }
+    },
+    "dubbelzinnig": {
+      "dubbelzinnig": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680165264093
+        }
+      }
+    },
+    "krantenkoppen": {
+      "krantenkoppen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680165321041
+        }
+      }
+    },
+    "ambiguïteit": {
+      "ambiguïteit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680165398698
+        }
+      }
+    },
+    "preconditie": {
+      "preconditie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680165835888
+        }
+      }
+    },
+    "Preconditie": {
+      "Preconditie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680166196713
+        }
+      }
+    },
+    "Tripple": {
+      "Tripple": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680166492981
+        }
+      }
+    },
+    "\\color{red}{": {
+      "\\color{red}{": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680167660794
+        }
+      }
+    },
+    "postconditie": {
+      "postconditie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680168086655
         }
       }
     }

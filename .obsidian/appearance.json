@@ -1,7 +1,7 @@
 {
-  "accentColor": "#ef6b72",
+  "accentColor": "#af0d15",
   "baseFontSize": 15,
-  "cssTheme": "obsidian_alt",
+  "cssTheme": "Wikipedia",
   "enabledCssSnippets": [
     "bullet points"
   ],

@@ -1,0 +1,4 @@
+/* Hide headers with a class of "no-toc" from the table of contents */
+.markdown-preview-view h2.no-toc {
+  visibility: hidden;
+}

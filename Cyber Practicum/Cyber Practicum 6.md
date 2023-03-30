@@ -1,4 +1,4 @@
-```toc
+	```toc
 ```
 ## Opdracht 3
 1. **VRAAG**: Geef de PARI-routine:

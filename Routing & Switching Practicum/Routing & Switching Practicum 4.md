@@ -5,4 +5,4 @@
 5. Gedaan
 6. Omdat je nu aangegeven hebt wat de root bridge zijn zullen de dichtstbijzijnde ports, designated ports zijn en de poort. De verste poort hieraan zal de alternate port zijn.
 7. Pvst mode
-8. Met de Portfast gaat hij sneller over van de learning state naar de listening state.
+8. Met de Portfast gaat de port sneller over van de learning state naar de listening state.

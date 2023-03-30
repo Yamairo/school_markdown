@@ -9,8 +9,8 @@
 - [ ] Logic B [[Logic practicum A]]
 - [ ] [[Cyber practicum 2]] 
 - [ ] Aantekeningen [[Aantekeningen Cyber 1]]  afmaken
-- [ ] Proffesional skills ^f74a2b
+- [x] Proffesional skills ^f74a2b
 	- [x] Video
-	- [ ] Storyboard
-	- [ ] Presentatie architectuurontwerp
+	- [x] Storyboard
+	- [x] Presentatie architectuurontwerp
 - [ ] [[Routing & Switching Aantekening Week 3]]  afmaken
