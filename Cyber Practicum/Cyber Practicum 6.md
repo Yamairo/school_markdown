@@ -1,7 +1,9 @@
 	```toc
 ```
+
 ## Opdracht 3
 1. **VRAAG**: Geef de PARI-routine:
+   
    ```
    Mod(22, 37)
    Mod(16, 37)
@@ -22,6 +24,7 @@
    Mod(16, 37)
    Mod(5, 37)
    ```
+
 2. **VRAAG**: Hoeveel vermenigvuldigingen zijn er uitgevoerd?
       > 18
 3. **VRAAG**: Bereken de bovenstaande tussenantwoorden (Stap 1) en bepaal nu uit de antwoorden op een slimme manier 1319 (Stap 2).

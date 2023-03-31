@@ -39,7 +39,10 @@
 ### Circuit 1 - Kraan
 ![[Pasted image 20230223194401.png]]
 
-### Circuit  2 - Toilet
+---
+
+### Circuit  2 - Toilet 
+
 ![[Pasted image 20230223192526.png]]
 
 

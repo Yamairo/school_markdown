@@ -27,7 +27,7 @@
 	4. $(\forall{x})(\forall{y})(M(x)\land W(y,x)\rightarrow V(y))$
 	   >Als iemand een man is en voor iemand anders werkt dan moet dit een vrouw zijn.
 3. Geef in het onderstaande redeneerschema aan welke regels er gebruikt zijn om de geldigheid aan te tonen van het argument:
-   $(\exists{x})[P(x)\rightarrow Q(x)]$ $\color{red}{\rightarrow}$$[(\forall{x})P(x)\rightarrow (\exists{x} )Q(x)]$
+   $(\exists{x})[P(x)\rightarrow Q(x)]$ $\color{red}{\rightarrow}$$[(\forall{x})P(x)\rightarrow (\exists{x} )Q(x)]$ 
 	1. $(\exists{x} )[P(x) \rightarrow Q(x)]$ Hypothese
 	2. $P(a) \rightarrow Q(a)$ 1, Universele Instantiatie
 	3. $(\forall{x})P(x)$ Hypothese

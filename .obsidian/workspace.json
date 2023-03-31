@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "84a2de3e6ba1e708",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f4cafe400ce9d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic Aantekeningen/Logic Aantekeningen week 7.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "61f78aa511bb0237"
-          }
-        ]
-      },
-      {
         "id": "9f6326f0e7131234",
         "type": "tabs",
         "children": [
@@ -32,23 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Aantekeningen/Logic Aantekeningen week 7.md",
-                "mode": "preview",
+                "file": "The Office/Test.md",
+                "mode": "source",
                 "source": true
               }
             },
-            "group": "61f78aa511bb0237"
-          },
+            "group": "5fa149f2bd01bac0"
+          }
+        ]
+      },
+      {
+        "id": "6a1d981f7f59ca2a",
+        "type": "tabs",
+        "children": [
           {
-            "id": "68a733a6b57ff882",
+            "id": "c859faffcb4d7ba2",
             "type": "leaf",
             "state": {
-              "type": "style-settings",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "The Office/Test.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "5fa149f2bd01bac0"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "a93f908bfa9733f6",
@@ -127,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Aantekeningen/Logic Aantekeningen week 7.md",
+                "file": "The Office/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic Aantekeningen/Logic Aantekeningen week 7.md",
+                "file": "The Office/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic Aantekeningen/Logic Aantekeningen week 7.md"
+                "file": "The Office/Test.md"
               }
             }
           },
@@ -226,8 +216,21 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "68a733a6b57ff882",
+  "active": "978af1818a0080bb",
   "lastOpenFiles": [
+    "The Office/Test.md",
+    "The Office",
+    "gitignore",
+    "Architectuurontwerp Groep 10.md",
+    "gitignore.md",
+    "Notulen.md",
+    "Logic Practicum/Logic practicum B.md",
+    "Logic Practicum/Logic practicum A.md",
+    "Logic Practicum/Logic Practicum C.md",
+    "Cyber Practicum/Cyber practicum 1.md",
+    "Cyber Practicum/Cyber Practicum 6.md",
+    "Logic Practicum/Logic Practicum F.md",
+    "Logic Practicum/Logic E.md",
     "Toetsen Samenvattingen/Network Engineering Deel 1.md",
     "Logic Aantekeningen/Logic Aantekeningen week 7.md",
     "Proffesional skills/Proffesional Skills Aantekeningen week 6.md",
@@ -239,29 +242,18 @@
     "Cyber_Aantekeningen/Cyber Aantekeningen week 3.md",
     "Cyber_Aantekeningen/Aantekeningen Cyber 2.md",
     "Cyber_Aantekeningen/Aantekeningen Cyber 1.md",
-    "Logic Practicum/Logic practicum A.md",
     "Logic Practicum/Logic practicum G.md",
-    "Logic Practicum/Logic Practicum F.md",
     "Cyber Practicum/Cyber Aantekeningen Week 5.md",
     "Logic Aantekeningen/Logic Aantekeningen week 6.md",
     "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 6.md",
-    "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
-    "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 2.md",
     "Logic Practicum/pdf/Logic E.pdf",
-    "Routing & Switching Practicum/Routing & Switching Practicum 4.md",
-    "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 7.md",
     "Proffesional skills/pdf/Pasted image 20230328114912.png",
     "Proffesional skills/pdf/Pasted image 20230328110534.png",
     "Proffesional skills/pdf/Pasted image 20230328110447.png",
     "Proffesional skils",
-    "Routing & Switching Practicum/Routing & Switching Week 5.md",
-    "Routing & Switching Aantekeningen/Routing & Switching week 4.md",
-    "Routing & Switching Practicum/Routing & Switching Practicum 3.md",
     "Routing & Switching Practicum/PDF_bestanden/Routing & switching handleiding.pdf",
     "Logic Practicum/PDF_bestanden/Routing & switching handleiding.pdf.opdownload",
     "Proffesional skills/pdf/Pasted image 20230327120357.png",
-    "Presentatie.md",
-    "Routing & Switching Practicum/Video Routing en switching.md",
     "Logic Practicum/pdf/Logic Practicum F.pdf",
     "Proffesional skills/pdf/Pasted image 20230322170433.png",
     "Logic Practicum/pdf/Logic practicum A.pdf",
@@ -274,8 +266,6 @@
     "Proffesional skills/pdf/Pasted image 20230316185354.png",
     "hash.canvas",
     "Architectuurontwerp (3)/Architectuurontwerp (3)-1.png",
-    "Architectuurontwerp (3)",
-    "Architectuurontwerp (2)",
     "Routing switching server.canvas",
     "random_oracle.canvas",
     "integriteit.canvas"
