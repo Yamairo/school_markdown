@@ -25,16 +25,23 @@ In principe kun je elk netwerk gebasserd op dit voorbeeld maken
 ^cf746f
 
 De laag met de end devices (PC's, servers, printers, wireless acces points)
+![[Pasted image 20230403195955.png]]
 
 ### Distribution layer 
 - Aggregatie van/naar de acces layer 
 - Hier komen de meeste security en routing regels
 - Verdeelt doorgaans de acces laag in VLANs
+![[Pasted image 20230403200007.png]]
 
 ### Core Layer 
 - High speed backbone van het netwerk Hoge availability en redundant uitgevoerd
 	- Moet snel, veel data kunnen forwarden
 	- Bij kleinere netwerken, collapsed model (Core and distribution samengevoegd) 
+![[Pasted image 20230403200021.png]]
+
+### Collapsed core
+![[Pasted image 20230403200116.png]]
+De meeste bedrijven zullen deze structuur gebruiken, een extra core layer zie je alleen in grotere bedrijven
 
 ---
 

@@ -36,10 +36,12 @@ Door het gebruik van **Helper adressen** op tussenliggende routers zal deze DHCP
 ---
 
 ## First Hop redundancy Protocols
-1. HSRP
+1. HSRP (Hot standby Routing Protocol) ^57a2db
 	- Cisco proprietary
-2. VRRP
+2. VRRP (Virtual Redundancy Protocol)
 	- IEEE Standard
 	- Similar to HSRP
 	- Niet daadwerkelijk tussen routers gebruiken
-3. GLHP
+3. GLHP (Gateway Load Balancing Protocol)
+	- Cisco proprietary 
+	- Met load balancing

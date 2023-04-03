@@ -2,8 +2,18 @@
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-custom-dt",
   "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-red-dt",
   "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-accent-dt",
-  "shiba-theme-settings@@shiba-colors-theme-light": "lily-light",
-  "shiba-theme-settings@@shiba-colors-theme-dark": "Lilac-dark",
-  "shiba-theme-settings@@shiba-accent-colors": "accent-violet",
-  "wikipedia-theme@@theme-colors": "wiki-accent"
+  "wikipedia-theme@@theme-colors": "wiki-accent",
+  "maple-plugin@@calendar-swap-year-month": false,
+  "maple-basic@@color-use-custom": true,
+  "maple-workspace@@titlebar-colorful": true,
+  "maple-workspace@@bg-enable": "bg-default",
+  "maple-workspace@@scrollbar-hide": true,
+  "maple-workspace@@setting-color-dirs@@light": "#F50000",
+  "shiba-theme-settings@@background-settings-workplace-theme-light": "background-settings-workplace-mountain2-light",
+  "shiba-theme-settings@@shib-workspace-background-image-toggle": false,
+  "shiba-theme-settings@@shiba-colors-theme-light": "stone-light",
+  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
+  "shiba-theme-settings@@shiba-accent-style": true,
+  "shiba-theme-settings@@shiba-accent-colors": "accent-lemon",
+  "shiba-theme-settings@@shiba-clutter-free-headings": true
 }

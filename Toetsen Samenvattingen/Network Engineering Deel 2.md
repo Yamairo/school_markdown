@@ -4,7 +4,7 @@
 
 ## Routing & Switching
 
-### Week 5 STP
+### Week 4 STP
 
 #### Switching Loops
 1. Multiple Frames
@@ -95,7 +95,7 @@ De manier waarop STP werkt kan in 3 fasen worden uitgelegd
 	- Handmatig uitgezet
 ![[Pasted image 20230403144822.png]]
 
-### Week 6 Routing intro, MLS, SVI's
+### Week 5 Routing intro, MLS, SVI's
 Routers werken op lagen 1,2 en 3 en worden gebruikt om het juiste pad in een netwerk te bepalen. Ook kunnen ze gebruikt worden om: een koppeling tussen twee datalink protocollen te maken; een scheiding van het (inter) netwerk d.m.v. bepaalde regels (bv et blokkeren van gevaarlijk verkeer); en het blokkeren van MAC-broadcasts tussen verschillende netwerkdelen.
 
 ![[Pasted image 20230403145405.png]]
@@ -150,3 +150,240 @@ Op een multi layer switch kan gebruik gemaakt wordenvan
 Een routed port is een fysieke poort met laag 3 toepassingen. Deze port is niet verbonden met een VLAN, en heeft een soortgelijk interface aan dat van een router. Laag 2 functionaliteit is verwijdert en daarom kan deze niet geconfigureerd worden.
 
 ![[Pasted image 20230403160020.png]]
+
+### Week 6 VTP (VLAN Trunk Protocol)
+VTP Maakt het makkelijker om VLAN databases tussen switches te beheren. Dit is handig omdat naarmate je meer switches gebruikt in een netwerk het moeilijker wordt om VLANs en trunks te beheren.
+
+VTP wordt gebruikt om **automatisch** informatie van VLANs tussen switches uit te wisselen
+
+#### Voordelen en nadelen
+<span style="color:green">Voordelen</span>
+VTP maakt het beheren van de VLAN database tussen meerdere switches makkelijker en dus zal de VLAN configuratie constant blijven door het gehele netwerk. VTP log-melding kan worden gegeven als een VLAN wordt toegevoegd in het netwerk
+
+<span style="color:red">Nadelen</span>
+Je moet nog steeds poorten toewijzen aan de VLANs 
+
+#### Revisienummer
+Het configuratie-revisienummer is een 32-bits nummer dat het revisieniveau voor een VTP-frame aangeeft.
+Het standaard configuratienummer voor een switch is nul.
+Elke keer dat een VLAN wordt toegevoegd of verwijderd, wordt het configuratie-revisienummer verhoogd. Elk VTP-apparaat houdt het revisienummer van de VTP-configuratie bij dat eraan is toegewezen.
+
+ - Note: Een wijziging van de VTP-domeinnaam verhoogt het revisienummer niet. In plaats daarvan wordt het revisienummer teruggezet naar nul.
+
+<span style="color:red">Probleem met revisienummer </span>
+- Als een nieuwe switch wordt toegevoegd aan het netwerk met een hoger revisienummer , wordt de server bijgewerkt met de VLAN-database van de nieuwe switch
+- Hierdoor kan het netwerk onbruikbaar worden omdat de verkeerde VLAN-info door deze nieuwe *server* wordt doorgegeven
+
+#### Pruning
+Met pruning wordt de capaciteit van het netwerk verhoogt doordat je VTP-info alleen door trunk verbindingen, die gebruikt worden om betreffende hosts te bereiken, stuurt.
+Switches communiceren dan over de VLANs die aan het eind van de trunk bereikbaar zijn
+Je schakelt pruning in met het commando ```vtp pruning ```
+
+#### Modes 
+#Handigvooropdetoets 
+Er zijn 3 VTP operating modes
+- **Client**
+	- Kan <a style="color:inherit">geen</a> VLANs creëren, verwijderen en veranderen
+	- Krijgt VLAN informatie van server
+- **Server**
+	- Kan VLANs creëren, verwijderen en veranderen 
+- **Transparant**
+	- Kan <a style="color:inherit">lokaal</a> VLANs creëren, verwijderen en veranderen 
+	- Stuurt VTP-berichten door
+
+---
+
+#### DHCP
+Voor het toekennen van **dynamische** adressen wordt **DHCP** gebruikt
+- Schaalbaar
+- Simpel
+- Een router kan als DHCP server worden geconfigureerd 
+- Dure serverapparatuur is niet nodig
+
+![[Pasted image 20230403194607.png]]
+
+##### Werking
+- DHCP levert IP-gerelateerde informatie van een (DHCP) sever aan clients deze gegevens worden tijdelijk als *lease* verstreken.
+- Hierdoor kunnen later andere clients het IP-adres krijgen
+- Naast het <a style=color:inherit>IP-address</a> en <a style=color:inherit>netmask</a> levert DHCP ook : <a style=color:inherit>default-gateway (router)</a>, <a style=color:inherit>DNS-adres</a>, <a style=color:inherit>WINS-server</a>, <a style=color:inherit>lease-duur</a>, <a style=color:inherit>domain-name</a>, ...
+
+##### Configuratie
+![[Pasted image 20230403195140.png]]
+![[Pasted image 20230403195153.png]]
+
+##### Relay
+<span style="color:red">Probleem met DHCP </span>
+Als een DHCP server in een ander netwerk staat dan worden discover messages van de host niet ontvangen.
+![[Pasted image 20230403195317.png]]
+
+###### Oplossing: IP Helper Address
+Door een **helper address** te configureren op tussenliggende routers zullen de DHCP broadcasts doorgestuurd worden naar de betreffende servers.
+![[Pasted image 20230403195549.png]]
+
+Deze helper adressen kunnen ook op SVI gebruikt worden
+![[Pasted image 20230403195622.png]]
+
+DHCP is niet het enige protocol waar broadcasts gebruikt worden
+![[Pasted image 20230403195721.png]]
+
+Voor info over de lagen zie
+![[Routing & Switching Aantekening Week 3#Lagen]]
+
+---
+
+#### Redundantie
+![[Routing & Switching Aantekening Week 6#First Hop redundancy Protocols]] 
+
+##### HSRP (Hot Standby Routing Protocol)
+![[Pasted image 20230403200551.png]]
+![[Pasted image 20230403200607.png]]
+![[Pasted image 20230403200617.png]]
+![[Pasted image 20230403200627.png]]
+
+- *Active router* -Doet het doorsturen van datapakketten en verzendt hallo-berichten naar andere routers om hen op de hoogte te stellen van de status ervan?
+- *Standby router* - Bewaakt de status van de actieve router en begint snel met het doorsturen van pakketten in het geval van een actieve routerstoring.
+- *Virtual Router* - **Bestaat niet!** Vertegenwoordigt een consistent beschikbare router met een IP-adres en een MAC-adres voor de hosts op een netwerk.
+- *Other routers* - Houd HSRP-hallo-berichten in de gaten, maar reageer niet. Functioneren als normale routers die naar hen verzonden pakketten doorsturen, maar geen pakketten doorsturen die zijn geadresseerd aan de virtuele router.
+###### Progression
+![[Pasted image 20230403200931.png]]
+Beide switches starten in de Initial status, verwerken de configuraties en gaan dan verder naar de Listening status, terwijl ze HSRP-hello's op het netwerk verwachten: 
+- Als hello's na een time-out niet worden ontvangen, gaat een switch naar de speak status en kiest actief een nieuw actief en standby-apparaat door naar elkaars hello-pakketten te kijken om te bepalen welke router welke rol moet aannemen.
+- Als hello's wordt ontvangen voordat de time-out is verstreken, blijft de switch in de listening status en wordt afhankelijk van de prioriteit naar Actief of Stand-by verplaatst.
+
+###### Operation
+![[Pasted image 20230403201037.png]]
+- The virtual router is a virtual IP and MAC address pair that end devices have configured as their default gateway. 
+- The active router processes all packets and frames sent to the virtual router address. 
+- The HSRP standby router monitors the operational status of the HSRP group and quickly assumes packet-forwarding responsibility if the active router becomes inoperable.
+
+---
+
+- Wanneer de standby-router geen hello-berichten meer ontvangt van de actieve router, wordt deze een actieve router.
+- Omdat de hosts een virtueel IP- en MAC-adres gebruiken, zien ze weinig tot geen onderbreking van de service.
+- In het zeldzame geval dat zowel de actieve als de standby-routers falen, zullen alle andere routers in de groep worden gekozen voor de actieve en standby-rollen;
+- De router met het hoogste IP-adres op de HSRP-interface wordt de actieve router, tenzij er een HSRP-prioriteit is geconfigureerd.
+
+###### MAC-adres
+<span style="color:red">0000.0c</span><span style="color:green">06.ac</span><span style="color:blue">01</span>
+
+- <span style="color:red">Vendor ID (Vendor Code)</span> - De eerste 3 bytes van het MAC-adres , als deze onbekend is wordt het gelijk gezet aan 0000.0c
+- <span style="color:green">HSRP Code (HSRP standard virtual MAC address)</span> - De volgende 2 bytes van het MAC-adres *zijn altijd 07.ac*
+- <span style="color:blue">Group ID (HSRP group number in hex)</span> - De laatste byte van het MAC-adres 
+
+###### Configuratie
+![[Pasted image 20230403201733.png]]
+![[Pasted image 20230403201746.png]]
+
+###### Spanning Tree (HSRP)
+De STP *root* van elke VLAN zal gelijk moeten zijn aan de *actieve* HSRP uitvoering. Op deze manier is er ook load balancing.
+![[Pasted image 20230403201915.png]]
+![[Pasted image 20230403201925.png]]
+![[Pasted image 20230403201931.png]]
+![[Pasted image 20230403201938.png]]
+
+---
+
+### Week 7 ACLs, NAT
+
+#### ACL Acces Control List
+Een ACL is een lijst met *permit* en *deny* statements 
+![[Pasted image 20230403215507.png]]
+
+Het doel hiervan is om verkeertypes te selecteren die je wilt filteren, analyseren, forwarden, of op een andere manier wilt verwerken.
+
+![[Pasted image 20230403215529.png]]
+
+##### Type ACLs
+![[Routing & Switching Aantekening Week 7#^c03b04]]
+![[Routing & Switching Aantekening Week 7#^c1727b]]
+
+##### Configuratie
+![[Pasted image 20230403215939.png]]
+
+#Handigvooropdetoets 
+Standard ACL 1-99
+Extended ACL 100-199
+
+![[Pasted image 20230403220020.png]]
+![[Pasted image 20230403220040.png]]
+![[Pasted image 20230403220053.png]]
+![[Pasted image 20230403220106.png]]
+
+##### Inbound of Outbound
+Inbound of outbound wordt per interface bepaald.
+Hierbij is Inbound [in] het ingaand verkeer
+En
+Outbound [out] is het uitgaand verkeer
+
+**Inbound**
+![[Pasted image 20230403221243.png]]
+
+**Outbound**
+![[Pasted image 20230403221316.png]]
+
+##### Standard of Extended
+###### Standaard
+**Standard** is dichtbij de **destination**
+Als je dit niet doet dan zal een *deny* statement ervoor zorgen dat heel het source netwerk geen toegang heeft tot geen enkel ander netwerk.
+
+Dat is omdat een standaard ACL alleen kan filteren *vanaf* eem bepaald netwerk en niet *naar* een bepaald netwerk. Er kan ook geen onderscheid gemakt worden tussen protocols.
+![[Pasted image 20230403220538.png]]
+![[Pasted image 20230403221538.png]]
+Hieronder zie je wat er gebeurd als de standard ACL vlakbij de source is
+![[Pasted image 20230403220607.png]]
+
+###### Extended
+**Extended** is dichtbij de **source**
+Als een extended ACL dichtbij een destination wordt geplaatst dan wordt de bandbreedte verspild. Dit is omdat de packets pas gedropt worden als ze bij de destination komen (dit geld ook voor standaard ACL).
+
+Een extended ACL wordt daarom zo dicht mogelijk bij de source geplaatst. Dit kan omdat deze veel specifieker is dan een standaard ACL
+
+![[Pasted image 20230403221012.png]]
+
+Syntax voor een extended ACL: access-list [nr] [permit|deny] [ip|icmp|tcp|udp] [source adres] [mask] [destination adres] [mask] [eq|ls|gt] [portnr|name] [log]
+- access-list [nr] = het unieke nummer van de ACL
+- [permit|deny] = het verkeer wordt toegelaten of geweigerd 
+- [ip|icmp|tcp|udp] = het netwerk protocol of transport protocol dat gefilterd moet worden 
+- [source adres] = het source IP/netwerk adres dat gefilterd moet worden 
+- [mask] = wildcard mask dat bepaalt welk gedeelte van het source adresveld gefilterd moet worden 
+- [port number] = poortnummer van belang (alleen als layer-4 protocol is geselecteerd)
+
+Als het netwerkverkeer specifieker moet worden gefilterd, kunnen de volgende opties worden gebruikt: 
+[eq|ls|gt]
+- eq = gelijk aangepast 
+- ls = kleiner dan
+- gt = groter dan 
+
+[portnr|name] = het poortnummer van het upper layer protocol (HTTP, FTP) dat gefilterd moet worden 
+[log] deze optie logt al het verkeer dat niet door de ACL wordt toegelaten (dit heet een access-list violation)
+
+![[Pasted image 20230403221946.png]]
+![[Pasted image 20230403222003.png]]
+##### De drie Per's
+Een ACL moet aan de volgende eisen voldoen:
+Een ACL...
+1. Per protocol
+2. Per interface
+3. Per richting (in/uit)
+ 
+#### NAT (Network Address Translation)
+![[Routing & Switching Aantekening Week 7#NAT]] 
+
+##### PAT
+![[Routing & Switching Aantekening Week 7#Pat]]
+
+###### Configuratie
+Stel we hebben dit netwerk
+![[Pasted image 20230403222816.png]]
+
+**Dynamic NAT**
+![[Pasted image 20230403222807.png]]
+
+**Dynamic NAT met overload**
+![[Pasted image 20230403222827.png]]
+
+##### Port forwarding
+![[Pasted image 20230403222959.png]]
+
+----
+

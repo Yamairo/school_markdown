@@ -1,9 +1,9 @@
 {
   "accentColor": "#af0d15",
   "baseFontSize": 15,
-  "cssTheme": "",
+  "cssTheme": "Shiba Inu",
   "enabledCssSnippets": [
     "bullet points"
   ],
-  "theme": "obsidian"
+  "theme": "moonstone"
 }
