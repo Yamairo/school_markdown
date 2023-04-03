@@ -8,38 +8,78 @@
         "type": "tabs",
         "children": [
           {
-            "id": "978af1818a0080bb",
+            "id": "a0b9b924948c4970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Office/Test.md",
+                "file": "STP.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "5fa149f2bd01bac0"
+            "group": "441b53e6cc901b59"
+          },
+          {
+            "id": "71e2a157309ced1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toetsen Samenvattingen/Network Engineering Deel 2.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "541ae5d3c5ffce85"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "6a1d981f7f59ca2a",
+        "id": "3d441226ad9d9704",
         "type": "tabs",
         "children": [
           {
-            "id": "c859faffcb4d7ba2",
+            "id": "325f98a0411d92a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Office/Test.md",
-                "mode": "source",
+                "file": "STP.md",
+                "mode": "preview",
                 "source": true
               }
             },
-            "group": "5fa149f2bd01bac0"
+            "group": "441b53e6cc901b59"
+          },
+          {
+            "id": "68a4633d2fc8f7b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toetsen Samenvattingen/Network Engineering Deel 2.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "541ae5d3c5ffce85"
+          },
+          {
+            "id": "e585464944e3c42a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toetsen Samenvattingen/Network Engineering Deel 2.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " stick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Office/Test.md",
+                "file": "Toetsen Samenvattingen/Network Engineering Deel 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Office/Test.md",
+                "file": "Toetsen Samenvattingen/Network Engineering Deel 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Office/Test.md"
+                "file": "Toetsen Samenvattingen/Network Engineering Deel 2.md"
               }
             }
           },
@@ -216,9 +257,28 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "978af1818a0080bb",
+  "active": "71e2a157309ced1d",
   "lastOpenFiles": [
-    "The Office/Test.md",
+    "Proffesional skills/pdf/Pasted image 20230403160020.png",
+    "Proffesional skills/pdf/Pasted image 20230403154618.png",
+    "Proffesional skills/pdf/Pasted image 20230403154614.png",
+    "Proffesional skills/pdf/Pasted image 20230403154142.png",
+    "Proffesional skills/pdf/Pasted image 20230403154008.png",
+    "Proffesional skills/pdf/Pasted image 20230403153925.png",
+    "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
+    "STP.md",
+    "Toetsen Samenvattingen/Network Engineering Deel 2.md",
+    "Proffesional skills/pdf/Pasted image 20230403150432.png",
+    "Proffesional skills/pdf/Pasted image 20230403150240.png",
+    "Proffesional skills/pdf/Pasted image 20230403150213.png",
+    "Proffesional skills/pdf/Pasted image 20230403145451.png",
+    "Proffesional skills/pdf/Pasted image 20230403145405.png",
+    "root-path-cost.md",
+    "Toetsen Samenvattingen/Network Engineering Deel 1.md",
+    "Routing & Switching Aantekeningen/Routing & Switching week 4.md",
+    "Routing & Switching Practicum/Routing and switching practicum 2.md",
+    "Routing & Switching Practicum/Routing & Switching week 6.md",
+    "Untitled.md",
     "The Office/Test.md",
     "The Office",
     "gitignore",
@@ -232,40 +292,21 @@
     "Cyber Practicum/Cyber Practicum 6.md",
     "Logic Practicum/Logic Practicum F.md",
     "Logic Practicum/Logic E.md",
-    "Toetsen Samenvattingen/Network Engineering Deel 1.md",
     "Logic Aantekeningen/Logic Aantekeningen week 7.md",
     "Proffesional skills/Proffesional Skills Aantekeningen week 6.md",
     "Proffesional skills/Proffesional Skills Aantekeningen Week 5.md",
     "Proffesional skills/Proffesional skills Aantekeningen week 3.md",
     "Proffesional skills/Proffesional skills Aantekeningen week 2.md",
-    "Proffesional skils/Proffesional skills Aantekeningen week 7.md",
-    "Cyber_Aantekeningen/Cyber Aantekeningen Week 4.md",
-    "Cyber_Aantekeningen/Cyber Aantekeningen week 3.md",
-    "Cyber_Aantekeningen/Aantekeningen Cyber 2.md",
-    "Cyber_Aantekeningen/Aantekeningen Cyber 1.md",
-    "Logic Practicum/Logic practicum G.md",
-    "Cyber Practicum/Cyber Aantekeningen Week 5.md",
-    "Logic Aantekeningen/Logic Aantekeningen week 6.md",
     "Logic Practicum/pdf/Logic E.pdf",
-    "Proffesional skills/pdf/Pasted image 20230328114912.png",
-    "Proffesional skills/pdf/Pasted image 20230328110534.png",
-    "Proffesional skills/pdf/Pasted image 20230328110447.png",
     "Proffesional skils",
     "Routing & Switching Practicum/PDF_bestanden/Routing & switching handleiding.pdf",
     "Logic Practicum/PDF_bestanden/Routing & switching handleiding.pdf.opdownload",
-    "Proffesional skills/pdf/Pasted image 20230327120357.png",
     "Logic Practicum/pdf/Logic Practicum F.pdf",
-    "Proffesional skills/pdf/Pasted image 20230322170433.png",
     "Logic Practicum/pdf/Logic practicum A.pdf",
-    "Proffesional skills/pdf/Pasted image 20230321110905.png",
     "Templates",
     "Routing switching 5.canvas",
-    "Proffesional skills/pdf/Pasted image 20230317112503.png",
-    "Logic Practicum/screenshot 1.png",
     "Logic Practicum/pdf/Logic Practicum D.pdf",
-    "Proffesional skills/pdf/Pasted image 20230316185354.png",
     "hash.canvas",
-    "Architectuurontwerp (3)/Architectuurontwerp (3)-1.png",
     "Routing switching server.canvas",
     "random_oracle.canvas",
     "integriteit.canvas"

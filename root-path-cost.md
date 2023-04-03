@@ -1,0 +1,1 @@
+De root-path-cost is een maat voor de afstand tot de root bridge. Bij elke hop worden deze kosten door de ontvangende poort verhoogd met een waarde, die afhankelijk is van het medium.

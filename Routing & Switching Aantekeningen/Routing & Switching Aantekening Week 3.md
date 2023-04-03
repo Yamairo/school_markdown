@@ -135,6 +135,9 @@ Dit heet trunking en word met de IEEE 802.1q standaard gedaan
 
 ---
 ## Configuratie voorbeeld router "On a stick"
+
+^a4804f
+
 ![[Pasted image 20230221114256.png]]
 Vergeet niet om de no shutdown command toe te voegen
 ```bash

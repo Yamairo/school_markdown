@@ -12,14 +12,14 @@ $1^{e}$ host
 
 $2^e$ host
 ```js
-1.2.3.63/28
+1.2.3.34
 ```
 ---
 ## Vraag 2:
 
 ```js
 NA : 166.60.0.0/16
-BA : 166.60.251.255/16
+BA : 166.60.255.255/16
 Subnetmask : 255.255.0.0
 ````
 ---
@@ -64,15 +64,15 @@ Hoofdnetwerk als binair : 1010 0110 . 0011 1100 . 0110 0000 . 0000 0000
 ### Subnet 0
 #### Binair
 ```js
-NA : 1010 0110 . 0011 1100 . 0100 0000 . 0000 0000
+NA : 1010 0110 . 0011 1100 . 0110 0000 . 0000 0000
 BA : 1010 0110 . 0011 1100 . 0100 0000 . 1111 1111
 Subnetmask : 1111 1111 . 1111 1111 . 1111 1100 . 0000 0000
 ```
 
 #### IP - adres
 ```js
-NA : 166.60.64.0/22
-BA : 166.60.64.255/22
+NA : 166.60.96.0/22
+BA : 166.60.96.255/22
 Subnetmask : 255.255.252.0
 ```
 
@@ -87,7 +87,7 @@ Gegeven een /24 netwerk, is het kleinste subnet dat je kan gebruiken /30 dit is 
 | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8   | 7   | 6   | 5   | 4   | 3   | 2   | 1    |
-### Vraag 1
+	### Vraag 1
 | IPv4 Addres/Prefix | Network Address   | Broadcast Address  | Total Number Of Hosts Bits | Total Number of Hosts |
 | ------------------ | ----------------- | ------------------ | -------------------------- | --------------------- |
 | 192.168.100.25/28  | 192.168.100.16/28 | 192.168.100.31/28  | 4                          | 14                    |
@@ -124,10 +124,10 @@ Gegeven een /24 netwerk, is het kleinste subnet dat je kan gebruiken /30 dit is 
 | New Subnet Mask:                            |  255.255.128.0  |
 | ------------------------------------------- | --------------- |
 | Find                                        |                 |
-| Number of Subnet Bits                       |       17        |
-| Number of Subnets Created                   |        2        | 
+| Number of Subnet Bits                       |        9        |
+| Number of Subnets Created                   |       512       |
 | Number of Host Bits per Subnet              |       15        |
-| Number of Hosts per Subnet                  |      32766      |
+| Number of Hosts per Subnet                  |     32.766      | 
 | Network Address of this Subnet              |   10.101.0.0    |
 | IPv 4 Address of First Host on this Subnet  |   10.101.0.1    |
 | IPv 4 Address of Last Host on this Subnet   | 10.101.127.254  |
@@ -147,8 +147,8 @@ Gegeven een /24 netwerk, is het kleinste subnet dat je kan gebruiken /30 dit is 
 | Number of Hosts per Subnet                  |      8.190      |
 | Network Address of this Subnet              |   172.22.32.0   |
 | IPv 4 Address of First Host on this Subnet  |   172.22.32.1   |
-| IPv 4 Address of Last Host on this Subnet   |  172.22.32.254  |
-| IPv 4 Broadcast Address on this Subnet      | 172.22.63.255  |
+| IPv 4 Address of Last Host on this Subnet   |  172.22.63.254  | 
+| IPv 4 Broadcast Address on this Subnet      |  172.22.63.255  |
 
 #### Probleem 4
 | Given                                       |                 |
@@ -158,9 +158,9 @@ Gegeven een /24 netwerk, is het kleinste subnet dat je kan gebruiken /30 dit is 
 | New Subnet Mask:                            | 255.255.255.252 |
 | ------------------------------------------- | --------------- |
 | Find                                        |                 |
-| Number of Subnet Bits                       |       30        |
-| Number of Subnets Created                   |       64        |
-| Number of Host Bits per Subnet              |        2        |
+| Number of Subnet Bits                       |       14        |
+| Number of Subnets Created                   |     16.384      |
+| Number of Host Bits per Subnet              |       30        | 
 | Number of Hosts per Subnet                  |        2        |
 | Network Address of this Subnet              |  192.168.1.244  |
 | IPv 4 Address of First Host on this Subnet  |  192.168.1.245  |
@@ -175,14 +175,14 @@ Gegeven een /24 netwerk, is het kleinste subnet dat je kan gebruiken /30 dit is 
 | New Subnet Mask:                            |  255.255.255.0  |
 | ------------------------------------------- | --------------- |
 | Find                                        |                 |
-| Number of Subnet Bits                       |       24        |
-| Number of Subnets Created                   |       512       |
-| Number of Host Bits per Subnet              |       13        |
+| Number of Subnet Bits                       |        8        |
+| Number of Subnets Created                   |       256       |
+| Number of Host Bits per Subnet              |        8        | 
 | Number of Hosts per Subnet                  |       254       |
-| Network Address of this Subnet              |   128.106.0.0   |
-| IPv 4 Address of First Host on this Subnet  |   128.106.0.1   |
-| IPv 4 Address of Last Host on this Subnet   | 128.107.255.254 |
-| IPv 4 Broadcast Address on this Subnet      | 128.107.255.255 |
+| Network Address of this Subnet              |   128.107.0.0   |
+| IPv 4 Address of First Host on this Subnet  |   128.107.0.1   |
+| IPv 4 Address of Last Host on this Subnet   | 128.107.0.254 |
+| IPv 4 Broadcast Address on this Subnet      | 128.107.0.255 |
 
 #### Probleem 6
 | Given                                       |                 |
@@ -192,11 +192,11 @@ Gegeven een /24 netwerk, is het kleinste subnet dat je kan gebruiken /30 dit is 
 | New Subnet Mask:                            | 255.255.255.248 |
 | ------------------------------------------- | --------------- |
 | Find                                        |                 |
-| Number of Subnet Bits                       |       24        |
+| Number of Subnet Bits                       |        5        |
 | Number of Subnets Created                   |       32        |
-| Number of Host Bits per Subnet              |        8        |
+| Number of Host Bits per Subnet              |        3        |
 | Number of Hosts per Subnet                  |        6        |
-| Network Address of this Subnet              |  192.135.250.0  |
-| IPv 4 Address of First Host on this Subnet  |  192.135.250.1  |
-| IPv 4 Address of Last Host on this Subnet   | 192.135.250.254 |
-| IPv 4 Broadcast Address on this Subnet      | 192.135.250.254 |
+| Network Address of this Subnet              | 192.135.250.176 |
+| IPv 4 Address of First Host on this Subnet  | 192.135.250.177 |
+| IPv 4 Address of Last Host on this Subnet   | 192.135.250.182 |
+| IPv 4 Broadcast Address on this Subnet      | 192.135.250.183 |

@@ -47,6 +47,14 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
+    "32768": {
+      "32768": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680524117338
+        }
+      }
+    },
     "11111111": {
       "11111111": {
         "currentFile": {
@@ -103,187 +111,11 @@
         }
       }
     },
-    "gebruiker": {
-      "gebruiker": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677677824615
-        }
-      }
-    },
     "service": {
       "service": {
         "currentFile": {
           "count": 3,
           "lastUpdated": 1678099657569
-        }
-      }
-    },
-    "risicopartij": {
-      "risicopartij": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677675878510
-        }
-      }
-    },
-    "controle": {
-      "controle": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677675993534
-        }
-      }
-    },
-    "Cybersecurity": {
-      "Cybersecurity": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677676307198
-        }
-      }
-    },
-    "maatregelen": {
-      "maatregelen": {
-        "currentFile": {
-          "count": 7,
-          "lastUpdated": 1677677849030
-        }
-      }
-    },
-    "voorafgaand": {
-      "voorafgaand": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677677418453
-        }
-      }
-    },
-    "Maatregelen": {
-      "Maatregelen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677677720590
-        }
-      }
-    },
-    "encryptie": {
-      "encryptie": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677684399520
-        }
-      }
-    },
-    "firewall": {
-      "firewall": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677677811175
-        }
-      }
-    },
-    "software": {
-      "software": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677677813334
-        }
-      }
-    },
-    "Organisatorische": {
-      "Organisatorische": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677677847247
-        }
-      }
-    },
-    "Aantekeningen Cyber 1": {
-      "Aantekeningen Cyber 1": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1677681922444
-        }
-      }
-    },
-    "Voorbeeld": {
-      "Voorbeeld": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677682765677
-        }
-      }
-    },
-    "verschuiving": {
-      "verschuiving": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677682676003
-        }
-      }
-    },
-    "Substitutie": {
-      "Substitutie": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677683345711
-        }
-      }
-    },
-    "S-box": {
-      "S-box": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677682333626
-        }
-      }
-    },
-    "Vigneire": {
-      "Vigneire": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677682637826
-        }
-      }
-    },
-    "Poly-alfabetische": {
-      "Poly-alfabetische": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677682723738
-        }
-      }
-    },
-    "plaintext": {
-      "plaintext": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677683158202
-        }
-      }
-    },
-    "sleutel": {
-      "sleutel": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677683167131
-        }
-      }
-    },
-    "substitutie": {
-      "substitutie": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677683485248
-        }
-      }
-    },
-    "poly-alfabetisch": {
-      "poly-alfabetisch": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677683479536
         }
       }
     },
@@ -570,16 +402,16 @@
     "MAC-adres": {
       "MAC-adres": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678185058923
+          "count": 5,
+          "lastUpdated": 1680526819021
         }
       }
     },
     "root-path-cost": {
       "root-path-cost": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678183405161
+          "count": 3,
+          "lastUpdated": 1680525482826
         }
       }
     },
@@ -594,8 +426,8 @@
     "designated": {
       "designated": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678184167462
+          "count": 5,
+          "lastUpdated": 1680525926197
         }
       }
     },
@@ -714,8 +546,8 @@
     "switches": {
       "switches": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679056836265
+          "count": 5,
+          "lastUpdated": 1680525047603
         }
       }
     },
@@ -1244,6 +1076,174 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1680245992816
+        }
+      }
+    },
+    "broadcast": {
+      "broadcast": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680523184875
+        }
+      }
+    },
+    "Protocol": {
+      "Protocol": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680523784743
+        }
+      }
+    },
+    "STP-rames": {
+      "STP-rames": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680523815418
+        }
+      }
+    },
+    "ontvangen": {
+      "ontvangen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680524177201
+        }
+      }
+    },
+    "belangrijker": {
+      "belangrijker": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680524350377
+        }
+      }
+    },
+    "geblokkeerd": {
+      "geblokkeerd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680524608824
+        }
+      }
+    },
+    "root-BID": {
+      "root-BID": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680524944462
+        }
+      }
+    },
+    "BPDU": {
+      "BPDU": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1680525977222
+        }
+      }
+    },
+    "bridge": {
+      "bridge": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680525569462
+        }
+      }
+    },
+    "non-root": {
+      "non-root": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680525900469
+        }
+      }
+    },
+    "gekozen": {
+      "gekozen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680525228400
+        }
+      }
+    },
+    "wordt": {
+      "wordt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680525681710
+        }
+      }
+    },
+    "port-ID": {
+      "port-ID": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680525703638
+        }
+      }
+    },
+    "Designated": {
+      "Designated": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680525883595
+        }
+      }
+    },
+    "aangepast": {
+      "aangepast": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680526825931
+        }
+      }
+    },
+    "router": {
+      "router": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680526831675
+        }
+      }
+    },
+    "inter": {
+      "inter": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680529400902
+        }
+      }
+    },
+    "interface": {
+      "interface": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680529402550
+        }
+      }
+    },
+    "switch": {
+      "switch": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680530185735
+        }
+      }
+    },
+    "multi": {
+      "multi": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680530181374
+        }
+      }
+    },
+    "layer": {
+      "layer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680530183230
         }
       }
     }
