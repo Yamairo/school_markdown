@@ -55,251 +55,11 @@
         }
       }
     },
-    "11111111": {
-      "11111111": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678124369967
-        }
-      }
-    },
-    "adres": {
-      "adres": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678124541587
-        }
-      }
-    },
-    "hostdeel": {
-      "hostdeel": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1678124909670
-        }
-      }
-    },
-    "netwerkadres": {
-      "netwerkadres": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678125091288
-        }
-      }
-    },
-    "broadcastadres": {
-      "broadcastadres": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678125097160
-        }
-      }
-    },
     "VLANs": {
       "VLANs": {
         "currentFile": {
           "count": 10,
           "lastUpdated": 1680540985566
-        }
-      }
-    },
-    "verschillende": {
-      "verschillende": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678128918546
-        }
-      }
-    },
-    "service": {
-      "service": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1678099657569
-        }
-      }
-    },
-    "inherit": {
-      "inherit": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678118336781
-        }
-      }
-    },
-    "Identify": {
-      "Identify": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678096729469
-        }
-      }
-    },
-    "needs": {
-      "needs": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678096732638
-        }
-      }
-    },
-    "Network": {
-      "Network": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678099340745
-        }
-      }
-    },
-    "security": {
-      "security": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678099686577
-        }
-      }
-    },
-    "uitval": {
-      "uitval": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678099755739
-        }
-      }
-    },
-    "services": {
-      "services": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678099781250
-        }
-      }
-    },
-    "Vertrouwelijkheid": {
-      "Vertrouwelijkheid": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678099836297
-        }
-      }
-    },
-    "Integriteit": {
-      "Integriteit": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678099864930
-        }
-      }
-    },
-    "fault": {
-      "fault": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678099945811
-        }
-      }
-    },
-    "beschikbaarheid": {
-      "beschikbaarheid": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678099959210
-        }
-      }
-    },
-    "Protocols": {
-      "Protocols": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678100546658
-        }
-      }
-    },
-    "elektromagnetische": {
-      "elektromagnetische": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678100436220
-        }
-      }
-    },
-    "golven": {
-      "golven": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678100440251
-        }
-      }
-    },
-    "Transport-laag": {
-      "Transport-laag": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678101235563
-        }
-      }
-    },
-    "segmenten": {
-      "segmenten": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678101309331
-        }
-      }
-    },
-    "Netwerk-laag": {
-      "Netwerk-laag": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678101411115
-        }
-      }
-    },
-    "Datalink-laag": {
-      "Datalink-laag": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678101615476
-        }
-      }
-    },
-    "Encapsulation": {
-      "Encapsulation": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678102018087
-        }
-      }
-    },
-    "duplex": {
-      "duplex": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678116943566
-        }
-      }
-    },
-    "collision": {
-      "collision": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678117000062
-        }
-      }
-    },
-    "Components": {
-      "Components": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678118176428
-        }
-      }
-    },
-    "Routing": {
-      "Routing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678119238387
         }
       }
     },
@@ -311,91 +71,11 @@
         }
       }
     },
-    "netwerkdeel": {
-      "netwerkdeel": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678124217321
-        }
-      }
-    },
     "#####": {
       "#####": {
         "currentFile": {
           "count": 3,
           "lastUpdated": 1679056871841
-        }
-      }
-    },
-    "prefix": {
-      "prefix": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678124931361
-        }
-      }
-    },
-    "waarbij": {
-      "waarbij": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678125005240
-        }
-      }
-    },
-    "supernetten": {
-      "supernetten": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678125613705
-        }
-      }
-    },
-    "flowchart": {
-      "flowchart": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678126318434
-        }
-      }
-    },
-    "Symmetrisch": {
-      "Symmetrisch": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678128474035
-        }
-      }
-    },
-    "bandbreedtes": {
-      "bandbreedtes": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678128487100
-        }
-      }
-    },
-    "Hello": {
-      "Hello": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678176697636
-        }
-      }
-    },
-    "Sequencing": {
-      "Sequencing": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678177569674
-        }
-      }
-    },
-    "Priority": {
-      "Priority": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678182988284
         }
       }
     },
@@ -415,14 +95,6 @@
         }
       }
     },
-    "Blocked": {
-      "Blocked": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678183600499
-        }
-      }
-    },
     "designated": {
       "designated": {
         "currentFile": {
@@ -436,22 +108,6 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1679551345729
-        }
-      }
-    },
-    "\\mathbb{Z}_{n}": {
-      "\\mathbb{Z}_{n}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678349680514
-        }
-      }
-    },
-    "Alice": {
-      "Alice": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1678350197290
         }
       }
     },
@@ -722,8 +378,8 @@
     "\\rightarrow": {
       "\\rightarrow": {
         "currentFile": {
-          "count": 22,
-          "lastUpdated": 1680166215092
+          "count": 28,
+          "lastUpdated": 1680686015149
         }
       }
     },
@@ -738,8 +394,8 @@
     "\\forall{x}": {
       "\\forall{x}": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679497108805
+          "count": 6,
+          "lastUpdated": 1680685626404
         }
       }
     },
@@ -770,8 +426,8 @@
     "Instantiatie": {
       "Instantiatie": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679501110188
+          "count": 4,
+          "lastUpdated": 1680685789574
         }
       }
     },
@@ -1034,8 +690,8 @@
     "preconditie": {
       "preconditie": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680165835888
+          "count": 2,
+          "lastUpdated": 1680687904265
         }
       }
     },
@@ -1378,8 +1034,8 @@
     "extended": {
       "extended": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680552381650
+          "count": 2,
+          "lastUpdated": 1680813450776
         }
       }
     },
@@ -1404,6 +1060,110 @@
         "currentFile": {
           "count": 4,
           "lastUpdated": 1680553563601
+        }
+      }
+    },
+    "intelligent": {
+      "intelligent": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680683786911
+        }
+      }
+    },
+    "intelligente": {
+      "intelligente": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680684424713
+        }
+      }
+    },
+    "\\exists": {
+      "\\exists": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1680686019743
+        }
+      }
+    },
+    "\\forall": {
+      "\\forall": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680686027874
+        }
+      }
+    },
+    "Configureer": {
+      "Configureer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680810891428
+        }
+      }
+    },
+    "Routing": {
+      "Routing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680811109405
+        }
+      }
+    },
+    "Routing-on-a-stick": {
+      "Routing-on-a-stick": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680811110587
+        }
+      }
+    },
+    "Geconfigureerd": {
+      "Geconfigureerd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680811509147
+        }
+      }
+    },
+    "VLAN’s": {
+      "VLAN’s": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680813016579
+        }
+      }
+    },
+    "IP-adres": {
+      "IP-adres": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680814074134
+        }
+      }
+    },
+    "IP-adressen": {
+      "IP-adressen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680813444431
+        }
+      }
+    },
+    "\\overline{a}": {
+      "\\overline{a}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680900910099
+        }
+      }
+    },
+    "\\overline{b}": {
+      "\\overline{b}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681029621784
         }
       }
     }

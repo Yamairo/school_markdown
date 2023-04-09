@@ -10,10 +10,12 @@
   "maple-workspace@@scrollbar-hide": true,
   "maple-workspace@@setting-color-dirs@@light": "#F50000",
   "shiba-theme-settings@@background-settings-workplace-theme-light": "background-settings-workplace-mountain2-light",
-  "shiba-theme-settings@@shib-workspace-background-image-toggle": false,
+  "shiba-theme-settings@@shib-workspace-background-image-toggle": true,
   "shiba-theme-settings@@shiba-colors-theme-light": "stone-light",
   "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
   "shiba-theme-settings@@shiba-accent-style": true,
   "shiba-theme-settings@@shiba-accent-colors": "accent-lemon",
-  "shiba-theme-settings@@shiba-clutter-free-headings": true
+  "shiba-theme-settings@@shiba-clutter-free-headings": true,
+  "shiba-theme-settings@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-lofi4",
+  "shiba-theme-settings@@shib-custom-bg-brightness-dark": 0.3
 }
